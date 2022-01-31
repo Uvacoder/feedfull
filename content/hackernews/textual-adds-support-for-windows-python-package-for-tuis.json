@@ -1,0 +1,10 @@
+{
+  "title": "Textual adds support for Windows (Python package for TUIs)",
+  "url": "https://www.willmcgugan.com/blog/tech/post/textual-for-windows/",
+  "date": "Mon, 31 Jan 2022 12:27:47 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30147213\">Comments</a>",
+  "image": "https://media.moyaproject.com/willmcgugan/uploads/thumbnails/techblog/9f8c0466-8285-11ec-97a9-f23c91845b44.png/9f8c0466-8285-11ec-97a9-f23c91845b44png.og.preview.2.jpeg",
+  "description": "Textual adds Windows support I've just released v0.1.15 of Textual, with Windows support. The Windows support is somewhat experimental, but so far seems solid. You will get best results on the new Windows Terminal. On the classic command prompt you might find a reduced color palette. This works on […]",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

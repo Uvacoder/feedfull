@@ -1,0 +1,10 @@
+{
+  "title": "Apple two-factor authentication feature now blocks SMS autofill for phishing attacks",
+  "url": "https://9to5mac.com/2022/01/31/apple-two-factor-authentication-autofill/",
+  "date": "Mon, 31 Jan 2022 12:48:58 +0000",
+  "content": "<div class=\"feat-image\"><img src=\"https://9to5mac.com/wp-content/uploads/sites/6/2022/01/imessage-2fa.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Apple&#8217;s two-factor authentication <a href=\"https://9to5mac.com/2018/06/04/safari-security-code-auto-fill/\" target=\"_blank\" rel=\"noreferrer noopener\">autofill feature</a> makes it painless to enter verification codes sent via SMS, but phishing attackers are getting savvy to this. </p><p>When they trick people into clicking on a fake link to a site that prompts for an SMS code, they do the same, so it looks legit when autofill offers to paste it in for you &#8230;</p><p> <a href=\"https://9to5mac.com/2022/01/31/apple-two-factor-authentication-autofill/#more-784368\" class=\"more-link\">more&#8230;</a></p><p>The post <a rel=\"nofollow\" href=\"https://9to5mac.com/2022/01/31/apple-two-factor-authentication-autofill/\">Apple two-factor authentication feature now blocks SMS autofill for phishing attacks</a> appeared first on <a rel=\"nofollow\" href=\"https://9to5mac.com\">9to5Mac</a>.</p>",
+  "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/imessage-2fa.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "description": "Apple's two-factor authentication autofill feature makes it painless to enter verification codes sent via SMS, but phishing attackers ...",
+  "publisher": "9to5Mac",
+  "publisherUrl": "http://9to5mac.com/"
+}

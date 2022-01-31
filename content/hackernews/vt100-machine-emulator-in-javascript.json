@@ -1,0 +1,10 @@
+{
+  "title": "VT100 Machine Emulator in JavaScript",
+  "url": "https://www.pcjs.org/machines/dec/vt100/",
+  "date": "Mon, 31 Jan 2022 13:10:29 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30147507\">Comments</a>",
+  "image": "https://www.pcjs.org/assets/img/logo-home.png",
+  "description": "Home of the original IBM PC emulator for browsers. PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are available, along with an archive of historical software and documentation.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
