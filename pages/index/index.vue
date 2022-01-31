@@ -9,11 +9,11 @@
       <img src="/logo.png" class="mx-auto h-20 w-20" alt="" />
       <h1 class="text-3xl font-black tracking-widest">feedful</h1>
       <p class="text-gray-500">
-        Feedful is an fast, opinionated and open source rss reader for popular
+        Feedful is a fast, opinionated and open source news reader for popular
         websites.
       </p>
       <p class="font-mono text-gray-500">
-        Made specially for tech and science news.
+        Made specially for tech and science essentials.
       </p>
       <a
         class="flex-space-x-2 mx-auto max-w-max rounded-lg border bg-gradient-to-b from-white to-gray-100 px-3 py-2 shadow shadow-slate-200/50 dark:border-gray-800 dark:from-gray-800 dark:to-gray-900 dark:shadow-slate-900/50"
@@ -21,7 +21,7 @@
         target="_blank"
       >
         <icon-github />
-        <span>Find us on Github</span>
+        <span>Star feedful on Github</span>
       </a>
     </div>
   </section>
