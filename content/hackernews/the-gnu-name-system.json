@@ -1,0 +1,10 @@
+{
+  "title": "The GNU Name System",
+  "url": "https://lsd.gnunet.org/lsd0001/",
+  "date": "Mon, 31 Jan 2022 21:37:45 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30154830\">Comments</a>",
+  "image": null,
+  "description": "\n       \n      This document contains the GNU Name System (GNS) technical\n      specification.\n      GNS is a decentralized and censorship-resistant name\n      system that provides a privacy-enhancing alternative to the Domain\n      Name System (DNS).\n       \n       \n      This document defines the normative wire format of resource records,\n      resolution processes, cryptographic routines and security\n      considerations for use by implementers.\n      It is published here to inform readers about the function\n      of GNS, guide future GNS implementations, and ensure\n      interoperability among implementations including with the\n      pre-existing GNUnet implementation.\n       \n       \n      This specification was developed outside the IETF and does not have\n      IETF consensus.  It is published here to guide implementation of GNS\n      and to ensure interoperability among implementations.\n       \n    ",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline",
+  "url": "https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/",
+  "date": "Mon, 31 Jan 2022 21:02:06 +0000",
+  "content": "<p>Lemme do this one quick-hits style:</p><ul><li>Mary Lou published a quintessentially-Codrops-y demo called <a href=\"https://tympanus.net/Development/ColumnScroll/\" rel=\"noopener\">Alternate Column Scroll</a>.</li><li>The scrolling effect is powered by <a href=\"https://locomotivemtl.github.io/locomotive-scroll/\" rel=\"noopener\">Locomotive Scroll</a>, which <a href=\"https://css-tricks.com/how-to-use-the-locomotive-scroll-for-all-kinds-of-scrolling-effects/\">we&#8217;ve coincidentally covered before</a>.</li><li>Bramus has been exploring native CSS scrolling effects </li></ul><p>&#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/\">Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362730",
+  "description": "The CSS Scroll-Timeline feature can be used to create a slick reverse scrolling effect. But here's how to do it while honors prefers-reduced-motion.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
