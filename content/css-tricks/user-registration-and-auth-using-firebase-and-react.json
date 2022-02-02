@@ -1,0 +1,10 @@
+{
+  "title": "User Registration and Auth Using Firebase and React",
+  "url": "https://css-tricks.com/user-registration-authentication-firebase-react/",
+  "date": "Wed, 02 Feb 2022 15:42:43 +0000",
+  "content": "<p>The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/user-registration-authentication-firebase-react/\">User Registration and Auth Using Firebase and React</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362521",
+  "description": "This tutorial will work us through on how to implement user registration, verification, and authentication in React using Firebase.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
