@@ -1,0 +1,10 @@
+{
+  "title": "Running Lisp in Production – Grammarly Engineering Blog",
+  "url": "https://www.grammarly.com/blog/engineering/running-lisp-in-production/",
+  "date": "Wed, 2 Feb 2022 02:07:14 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30172641\">Comments</a>",
+  "image": null,
+  "description": "At Grammarly, the foundation of our business, our core grammar engine, is written in Common Lisp. It currently processes more than a thousand sentences per…",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
