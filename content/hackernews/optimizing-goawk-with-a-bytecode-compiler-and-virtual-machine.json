@@ -1,0 +1,10 @@
+{
+  "title": "Optimizing GoAWK with a bytecode compiler and virtual machine",
+  "url": "https://benhoyt.com/writings/goawk-compiler-vm/",
+  "date": "Thu, 3 Feb 2022 09:23:11 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30190436\">Comments</a>",
+  "image": null,
+  "description": "How I sped up GoAWK by switching from a tree-walking interpreter to a bytecode compiler and virtual machine interpreter.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
