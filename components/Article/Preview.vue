@@ -99,4 +99,8 @@ export default {
   width: 100% !important;
   display: none !important;
 }
+
+.prose p:hover {
+  @apply bg-blue-100 dark:bg-black rounded;
+}
 </style>

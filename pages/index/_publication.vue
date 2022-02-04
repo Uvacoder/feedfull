@@ -73,6 +73,6 @@ export default {
   @apply sticky top-0 h-screen w-96 overflow-y-auto border-r border-gray-200  dark:border-gray-700 dark:bg-gray-900;
 }
 .selected-post {
-  @apply bg-gray-200 dark:bg-gray-800;
+  @apply bg-gray-200 dark:bg-black;
 }
 </style>
