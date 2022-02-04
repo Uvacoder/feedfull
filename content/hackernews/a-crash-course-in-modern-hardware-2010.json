@@ -1,0 +1,10 @@
+{
+  "title": "A Crash Course in Modern Hardware (2010)",
+  "url": "https://www.infoq.com/presentations/click-crash-course-modern-hardware/",
+  "date": "Fri, 4 Feb 2022 15:04:53 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30207612\">Comments</a>",
+  "image": "https://res.infoq.com/presentations/click-crash-course-modern-hardware/en/smallimage/CliffClick.jpg",
+  "description": "In this presentation from the JVM Languages Summit 2009, Cliff Click discusses the Von Neumann architecture, CISC vs RISC, the rise of multicore, Instruction-Level Parallelism (ILP), pipelining, out-of-order dispatch, static vs dynamic ILP, performance impact of cache misses, memory performance, memory vs CPU caching, examples of memory/CPU cache interaction, and tips for improving performance.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
