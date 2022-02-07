@@ -1,0 +1,10 @@
+{
+  "title": "Inline Assembly in F#",
+  "url": "https://blog.devgenius.io/inline-assembly-in-f-net-language-6d70ab9f58c1?gi=dea257bef9e9",
+  "date": "Sun, 6 Feb 2022 05:55:39 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30229883\">Comments</a>",
+  "image": "https://miro.medium.com/max/1148/1*cd7oSXw7sSTHeFIlzo1Llg.png",
+  "description": "This is assembly language in F#. No, this is not emulated. It is not IL. It is x86 assembly language. The one that runs on your CPU…",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
