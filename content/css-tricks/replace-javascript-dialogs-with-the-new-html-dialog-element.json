@@ -1,0 +1,10 @@
+{
+  "title": "Replace JavaScript Dialogs With the New HTML Dialog Element",
+  "url": "https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/",
+  "date": "Tue, 08 Feb 2022 15:09:40 +0000",
+  "content": "<p>You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.</p><p>Let me explain.</p><p>I recently worked on a project with a lot of &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/\">Replace JavaScript Dialogs With the New HTML Dialog Element</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362672",
+  "description": "Here's how to replace JavaScript dialogs with the HTML dialog element with the same functionality as the alert(), confirm(), and prompt() methods.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
