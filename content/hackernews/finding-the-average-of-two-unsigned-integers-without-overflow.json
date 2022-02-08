@@ -1,0 +1,10 @@
+{
+  "title": "Finding the average of two unsigned integers without overflow",
+  "url": "https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223",
+  "date": "Mon, 7 Feb 2022 22:28:13 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30252263\">Comments</a>",
+  "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+  "description": "Finding the average of two unsigned integers, rounding toward zero, sounds easy: unsigned average(unsigned a, unsigned b) {   return (a + b) / 2; }  However, this gives the wrong answer in the face of integer overflow: For example, if unsigned integers are 32 bits wide,",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
