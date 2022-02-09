@@ -1,0 +1,10 @@
+{
+  "title": "Google is working on an Ultra-wideband (UWB) API for third-party Android apps",
+  "url": "https://www.xda-developers.com/google-public-uwb-api-android/",
+  "date": "Wed, 09 Feb 2022 10:14:41 +0000",
+  "content": "<p>Last year, Google added a new API in AOSP to enable better support for ultra-wideband (UWB) devices. At the time, we learned that the API was restricted to system apps only. In other words, it was not accessible to third-party apps. But that should change soon as Google is now developing a separate public API</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/google-public-uwb-api-android/\">Google is working on an Ultra-wideband (UWB) API for third-party Android apps</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2020/11/Ultra-wide-band-UWB-feature.jpg",
+  "description": "According to newly discovered commits on AOSP, it appears Google is readying a public API for ultra-wideband (UWB).",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
