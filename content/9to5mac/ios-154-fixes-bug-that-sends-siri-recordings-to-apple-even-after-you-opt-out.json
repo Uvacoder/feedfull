@@ -1,0 +1,10 @@
+{
+  "title": "iOS 15.4 fixes bug that sends Siri recordings to Apple even after you opt out",
+  "url": "https://9to5mac.com/2022/02/08/ios-15-4-fixes-bug-that-sends-siri-recordings-to-apple-even-after-you-opt-out/",
+  "date": "Wed, 09 Feb 2022 00:54:09 +0000",
+  "content": "<div class=\"feat-image\"><img src=\"https://9to5mac.com/wp-content/uploads/sites/6/2020/12/Siri-iOS-14.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Back in 2019, Apple introduced a new option that <a href=\"https://9to5mac.com/2019/07/29/stop-apple-listening-siri-recordings/\" target=\"_blank\" rel=\"noreferrer noopener\">let users opt out of sharing their Siri recordings with Apple</a> due to privacy concerns. While this option is still available in iOS 15, it seems that the option wasn&#8217;t working as expected. The company has now fixed that bug with iOS 15.4.</p><p> <a href=\"https://9to5mac.com/2022/02/08/ios-15-4-fixes-bug-that-sends-siri-recordings-to-apple-even-after-you-opt-out/#more-786164\" class=\"more-link\">more&#8230;</a></p><p>The post <a rel=\"nofollow\" href=\"https://9to5mac.com/2022/02/08/ios-15-4-fixes-bug-that-sends-siri-recordings-to-apple-even-after-you-opt-out/\">iOS 15.4 fixes bug that sends Siri recordings to Apple even after you opt out</a> appeared first on <a rel=\"nofollow\" href=\"https://9to5mac.com\">9to5Mac</a>.</p>",
+  "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Siri-iOS-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "description": "The option that let users opt out of sharing their Siri recordings with Apple wasn't working on iOS 15, but iOS 15.4 fixes it.",
+  "publisher": "9to5Mac",
+  "publisherUrl": "http://9to5mac.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Why is the Zoom app listening on my microphone when not in a meeting?",
+  "url": "https://community.zoom.com/t5/Meetings/Why-is-the-Zoom-app-listening-on-my-microphone-when-not-in-a/td-p/29019",
+  "date": "Wed, 9 Feb 2022 00:28:03 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30266894\">Comments</a>",
+  "image": "https://community.zoom.com/html/assets/metatag.jpg",
+  "description": "I'm running MacOS Monterey. Several times in the last few weeks, I've noticed the orange dot indicating the microphone is being used by an app, and I click on the Control Center and see that Zoom is accessing the microphone. I'm not in a meeting and simply have the Zoom app open. Why would Zoom be a...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
