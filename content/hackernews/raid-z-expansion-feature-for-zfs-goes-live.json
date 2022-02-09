@@ -1,0 +1,10 @@
+{
+  "title": "Raid-Z Expansion Feature for ZFS Goes Live",
+  "url": "https://freebsdfoundation.org/blog/raid-z-expansion-feature-for-zfs-goes-live/",
+  "date": "Tue, 8 Feb 2022 09:16:12 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30256349\">Comments</a>",
+  "image": null,
+  "description": "How it works The feature reflows existing data, essentially rewriting it onto a new arrangement of disks – meaning the original group plus a newly added disk. In so doing, a new adjacent chunk of free space is created at the end of the logical RAID-Z group and thus at the end of each physical […]",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

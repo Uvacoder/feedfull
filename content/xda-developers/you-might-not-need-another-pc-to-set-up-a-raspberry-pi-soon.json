@@ -1,0 +1,10 @@
+{
+  "title": "You might not need another PC to set up a Raspberry Pi soon",
+  "url": "https://www.xda-developers.com/raspberry-pi-network-install/",
+  "date": "Tue, 08 Feb 2022 21:07:17 +0000",
+  "content": "<p>Raspberry Pi single-board computers have been a tremendous success over the years, thanks to their versatility and low cost. From powering DIY electronics projects, to functioning as cheap PCs for learning programming, the Raspberry Pi series can fill many roles. However, you&#8217;ve always needed a separate computer for creating the boot drive, which is a</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/raspberry-pi-network-install/\">You might not need another PC to set up a Raspberry Pi soon</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2022/02/Bootloader-setup-blog.jpg",
+  "description": "A new bootloader for the Raspberry Pi is in development that can download and install operating systems to an SD card or USB drive.",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
