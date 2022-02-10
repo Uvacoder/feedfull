@@ -1,0 +1,10 @@
+{
+  "title": "Helpful Tips for Starting a Next.js Chrome Extension",
+  "url": "https://css-tricks.com/nextjs-chrome-extension-starter/",
+  "date": "Thu, 10 Feb 2022 15:24:02 +0000",
+  "content": "<p>I recently rewrote one of my projects — <a href=\"https://github.com/thomaswang/minimal-twitter\" rel=\"noopener\">Minimal Theme for Twitter</a> — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/nextjs-chrome-extension-starter/\">Helpful Tips for Starting a Next.js Chrome Extension</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363079",
+  "description": "I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
