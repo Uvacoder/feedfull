@@ -1,0 +1,10 @@
+{
+  "title": "Understanding LSM Trees: What Powers Write-Heavy Databases",
+  "url": "https://yetanotherdevblog.com/lsm/",
+  "date": "Wed, 9 Feb 2022 05:37:53 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30269286\">Comments</a>",
+  "image": null,
+  "description": "A log-structured merge-tree (LSM tree) is a data structure typically used when dealing with write-heavy workloads. The write path is optimized by only performing sequential writes. LSM trees are the core data structure behind many databases, including BigTable, Cassandra, Scylla, and RocksDB.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
