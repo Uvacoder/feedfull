@@ -1,0 +1,10 @@
+{
+  "title": "How and why Linaro builds, boots and tests over a million Linux kernels per year",
+  "url": "https://www.linaro.org/blog/how-linaro-builds-boots-and-tests-over-a-million-linux-kernels-per-year/",
+  "date": "Thu, 10 Feb 2022 11:11:55 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30284689\">Comments</a>",
+  "image": "https://www.linaro.org/assets/images/content/code_banner.jpg",
+  "description": "In 2021, Linaro addressed an increase in Linux kernel release candidates whilst also detecting and reporting more than double the amount of regressions, compared to the previous year. In this blog, Engineering Manager Benjamin Copeland talks about why we are building over a million kernels and why this matters for overall Linux Kernel Quality. ",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
