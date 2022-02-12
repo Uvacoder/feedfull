@@ -1,0 +1,10 @@
+{
+  "title": "Building an Intelligent Emacs",
+  "url": "https://ianyepan.github.io/posts/emacs-ide/",
+  "date": "Fri, 11 Feb 2022 23:28:48 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30308272\">Comments</a>",
+  "image": null,
+  "description": "This post introduces the combination of Emacs and LSP, and how you can make your own editor “smarter” by using the same idea of communications between an editor client and multiple language servers.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
