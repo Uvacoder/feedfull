@@ -1,0 +1,10 @@
+{
+  "title": "Sustainability with Rust",
+  "url": "https://aws.amazon.com/blogs/opensource/sustainability-with-rust/",
+  "date": "Sat, 12 Feb 2022 14:38:25 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30313102\">Comments</a>",
+  "image": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+  "description": "Rust is a programming language implemented as a set of open source projects. It combines the performance and resource efficiency of systems programming languages like C with the memory safety of languages like Java. Rust started as a research project at Mozilla in 2010, and Rust 1.0 launched in 2015. In 2020, support for Rust […]",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
