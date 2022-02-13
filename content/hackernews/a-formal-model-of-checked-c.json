@@ -1,0 +1,10 @@
+{
+  "title": "A Formal Model of Checked C",
+  "url": "https://arxiv.org/abs/2201.13394",
+  "date": "Sun, 13 Feb 2022 13:12:23 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30321535\">Comments</a>",
+  "image": null,
+  "description": "We present a formal model of Checked C, a dialect of C that aims to enforce\nspatial memory safety. Our model pays particular attention to the semantics of\ndynamically sized, potentially null-terminated arrays. We formalize this model\nin Coq, and prove that any spatial memory safety errors can be blamed on\nportions of the program labeled unchecked; this is a Checked C feature that\nsupports incremental porting and backward compatibility. While our model's\noperational semantics uses annotated (\"fat\") pointers to enforce spatial\nsafety, we show that such annotations can be safely erased: Using PLT Redex we\nformalize an executable version of our model and a compilation procedure from\nit to an untyped C-like language, and use randomized testing to validate that\ngenerated code faithfully simulates the original. Finally, we develop a custom\nrandom generator for well-typed and almost-well-typed terms in our Redex model,\nand use it to search for inconsistencies between our model and the Clang\nChecked C implementation. We find these steps to be a useful way to co-develop\na language (Checked C is still in development) and a core model of it.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
