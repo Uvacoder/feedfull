@@ -1,0 +1,10 @@
+{
+  "title": "Harmful consequences of the robustness principle",
+  "url": "https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html",
+  "date": "Mon, 14 Feb 2022 04:44:20 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30328446\">Comments</a>",
+  "image": null,
+  "description": "\n       The robustness principle, often phrased as \"be conservative in what you send,\nand liberal in what you accept\", has long guided the design and implementation\nof Internet protocols.  The posture this statement advocates promotes\ninteroperability in the short term, but can negatively affect the protocol\necosystem over time.  For a protocol that is actively maintained, the robustness\nprinciple can, and should, be avoided. \n    ",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
