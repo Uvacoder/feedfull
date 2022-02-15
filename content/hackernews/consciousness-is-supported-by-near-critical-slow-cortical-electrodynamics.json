@@ -1,0 +1,10 @@
+{
+  "title": "Consciousness is supported by near-critical slow cortical electrodynamics",
+  "url": "https://www.pnas.org/content/119/7/e2024455119",
+  "date": "Tue, 15 Feb 2022 18:04:37 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30350261\">Comments</a>",
+  "image": "https://www.pnas.org/content/119/7/e2024455119/F1.large.jpg",
+  "description": "What changes in the brain when we lose consciousness? One possibility is that the loss of consciousness corresponds to a transition of the brain’s electric activity away from edge-of-chaos criticality, or the knife’s edge in between stability and chaos. Recent mathematical developments have produced tools for testing this hypothesis, which we apply to cortical recordings from diverse brain states. We show that the electric activity of the cortex is indeed poised near the boundary between stability and chaos during conscious states and transitions away from this boundary during unconsciousness and that this transition disrupts cortical information processing.\n\nAnonymized summary statistics/values required to recreate the figures and statistical analyses of this paper have been deposited in Figshare ([https://figshare.com/articles/software/Consciousness\\_is\\_supported\\_by\\_near-critical\\_cortical\\_electrodynamics/12949355][1]) (DOI: [10.6084/m9.figshare.12949355][2]). Previously published data were used for this work (<https://doi.org/10.1371/journal.pone.0022561>, <https://doi.org/10.1016/j.cmpb.2010.08.011>).\n\n [1]: https://figshare.com/articles/software/Consciousness_is_supported_by_near-critical_cortical_electrodynamics/12949355\n [2]: https://doi.org/10.6084/m9.figshare.12949355",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
