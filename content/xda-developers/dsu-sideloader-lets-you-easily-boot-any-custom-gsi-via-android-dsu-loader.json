@@ -1,0 +1,10 @@
+{
+  "title": "DSU Sideloader lets you easily boot any custom GSI via Android DSU Loader",
+  "url": "https://www.xda-developers.com/dsu-sideloader-boot-custom-android-gsi/",
+  "date": "Wed, 16 Feb 2022 14:00:36 +0000",
+  "content": "<p>Last week, Google released the first Developer Preview build of Android 13. While the current release is only available for a handful of Google Pixel smartphones, the company will likely publish official Generic System Images (GSIs) for the subsequent builds. Apart from manually flashing the GSI, developers can then utilize the Dynamic System Updates (DSU)</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/dsu-sideloader-boot-custom-android-gsi/\">DSU Sideloader lets you easily boot any custom GSI via Android DSU Loader</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2020/03/Untitled.jpg",
+  "description": "DSU Sideloader is an open source app that greatly simplifies the custom GSI installation process of the Android DSU Loader. Check it out!",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
