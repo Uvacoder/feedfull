@@ -1,0 +1,10 @@
+{
+  "title": "WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers",
+  "url": "https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers",
+  "date": "Thu, 17 Feb 2022 08:41:39 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30370852\">Comments</a>",
+  "image": "https://www.khronos.org/assets/uploads/apis/WebGL-Square.png",
+  "description": "One of the great headaches of developing interactive graphics applications for online deployment is covering every base. Your targets likely include a near-infinite combination of browser vendors, browser versions, and graphics hardware. The Khronos Group created WebGL to slice through this Gordian knot, rendering high-performance interactive graphics in any compatible browser, and on any graphics processing unit, without the need for plug-ins. N",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
