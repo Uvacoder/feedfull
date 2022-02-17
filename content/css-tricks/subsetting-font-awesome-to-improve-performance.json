@@ -1,0 +1,10 @@
+{
+  "title": "Subsetting Font Awesome to Improve Performance",
+  "url": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
+  "date": "Thu, 17 Feb 2022 15:21:41 +0000",
+  "content": "<p><a href=\"https://fontawesome.com/\" rel=\"noopener\">Font Awesome</a> is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/subsetting-font-awesome-to-improve-performance/\">Subsetting Font Awesome to Improve Performance</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179",
+  "description": "By subsetting Font Awesome, we can remove any unused glyphs from the font files that it provides to reduce the overall file size.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
