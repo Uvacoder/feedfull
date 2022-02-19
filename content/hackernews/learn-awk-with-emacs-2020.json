@@ -1,0 +1,10 @@
+{
+  "title": "Learn Awk with Emacs (2020)",
+  "url": "https://jherrlin.github.io/posts/learn-awk/",
+  "date": "Sat, 19 Feb 2022 12:30:55 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30396643\">Comments</a>",
+  "image": "https://www.gravatar.com/avatar/4bc4e51875ff5d86326b676d50864a2c?s=256",
+  "description": "Intro   This post describes my workflow for learning the AWK programming language using Emacs, Org mode and Org-drill. The workflow may work for other programming languages. The post won't cover details on how to use Emacs, Org mode or Org-drill. It's intention is to provide a general overview of a workflow.\n A git repo is available with flash cards, note book and some text files here.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
