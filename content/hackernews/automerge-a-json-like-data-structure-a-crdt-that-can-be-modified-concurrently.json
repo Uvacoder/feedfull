@@ -1,0 +1,10 @@
+{
+  "title": "Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently",
+  "url": "https://github.com/automerge/automerge",
+  "date": "Mon, 21 Feb 2022 06:35:17 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30412550\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/60a9972342e6e183af2852c1c2a2477d9f1de4c902501cbe8305cd9a02df4d8d/automerge/automerge",
+  "description": "A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. - GitHub - automerge/automerge: A JSON-like data structure (a CRDT) that ca...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
