@@ -1,0 +1,10 @@
+{
+  "title": "A Complete Guide to CSS Cascade Layers",
+  "url": "https://css-tricks.com/css-cascade-layers/",
+  "date": "Mon, 21 Feb 2022 15:40:35 +0000",
+  "content": "<p>This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/css-cascade-layers/\">A Complete Guide to CSS Cascade Layers</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766",
+  "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
