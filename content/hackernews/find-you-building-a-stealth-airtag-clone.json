@@ -1,0 +1,10 @@
+{
+  "title": "Find You: Building a stealth AirTag clone",
+  "url": "https://positive.security/blog/find-you",
+  "date": "Mon, 21 Feb 2022 16:01:12 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30417303\">Comments</a>",
+  "image": "https://uploads-ssl.webflow.com/5f6498c074436c349716e747/6210d37a1cd882269988645e_cover_w_background_3.png",
+  "description": "We built an AirTag clone capable of silently and continuously tracking someone. The device accomplishes this by sending just one beacon per generated public key, thereby staying invisible to tracking notifications for iOS users and Apple’s Tracker Detect Android app.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

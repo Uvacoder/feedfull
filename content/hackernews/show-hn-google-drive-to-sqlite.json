@@ -1,0 +1,10 @@
+{
+  "title": "Show HN: Google Drive to SQLite",
+  "url": "https://simonwillison.net/2022/Feb/20/google-drive-to-sqlite/",
+  "date": "Mon, 21 Feb 2022 16:12:19 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30417411\">Comments</a>",
+  "image": "https://static.simonwillison.net/static/2022/google-drive-to-sqlite.png",
+  "description": "I released a new tool this week: google-drive-to-sqlite. It’s a CLI utility for fetching metadata about files in your Google Drive and writing them to a local SQLite database. It’s …",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
