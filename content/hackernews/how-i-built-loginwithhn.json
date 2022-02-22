@@ -1,0 +1,10 @@
+{
+  "title": "How I Built LoginWithHN",
+  "url": "https://vadosware.io/post/how-i-built-lwhn/",
+  "date": "Tue, 22 Feb 2022 13:02:49 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30427381\">Comments</a>",
+  "image": "https://vadosware.io/images/Page(/post/how-i-built-lwhn.md)",
+  "description": "How I built LoginWithHN, an OAuth2+OpenID Connect provider for HackerNews.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
