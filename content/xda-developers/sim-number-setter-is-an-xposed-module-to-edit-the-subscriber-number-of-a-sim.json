@@ -1,0 +1,10 @@
+{
+  "title": "SIM Number Setter is an Xposed module to edit the subscriber number of a SIM",
+  "url": "https://www.xda-developers.com/sim-number-setter-xposed-module/",
+  "date": "Tue, 22 Feb 2022 09:00:21 +0000",
+  "content": "<p>While eSIM adoption has been growing steadily, physical SIM cards are long from gone just yet. Remote provisioning is the key strength of the eSIM architecture, which means the embedded SIM can be easily programmed by installing the desired carrier profile. Programming a physical SIM card, however, is a difficult job. For example, if you&#8217;ve</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/sim-number-setter-xposed-module/\">SIM Number Setter is an Xposed module to edit the subscriber number of a SIM</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2022/02/SIM-card-ejector-tray-featured.jpg",
+  "description": "SIM Number Setter is an Xposed module that helps you to fix the annoying \"Unknown\" tag under the Phone number in Android system settings.",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
