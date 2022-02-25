@@ -1,0 +1,10 @@
+{
+  "title": "Learn Rust by writing a small OS",
+  "url": "https://os.phil-opp.com/",
+  "date": "Fri, 25 Feb 2022 14:22:30 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30467572\">Comments</a>",
+  "image": null,
+  "description": "This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
