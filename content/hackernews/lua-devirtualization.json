@@ -1,0 +1,10 @@
+{
+  "title": "Lua Devirtualization",
+  "url": "https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction",
+  "date": "Sat, 26 Feb 2022 06:32:58 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30475616\">Comments</a>",
+  "image": "https://ferib.dev/logo.png",
+  "description": "In this series of articles, I will take you on a journey to show you a darker side of the programming world. A place that is fueled by money, script kiddies, and even more money. To prevent code from being cracked and resold, we must outsmart each other and develop security mechanisms that are either too hard to solve or take up to much time to solve. One of those security mechanisms are obfuscators, today will be all about why the need for obfuscators and how they work.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
