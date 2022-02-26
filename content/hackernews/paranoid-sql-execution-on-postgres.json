@@ -1,0 +1,10 @@
+{
+  "title": "Paranoid SQL Execution on Postgres",
+  "url": "https://ardentperf.com/2021/07/06/paranoid-sql-execution-on-postgresql/",
+  "date": "Wed, 23 Feb 2022 21:51:49 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30447025\">Comments</a>",
+  "image": "https://secure.gravatar.com/blavatar/66aadd10c96808da2e88970415553e01?s=200&ts=1645835825",
+  "description": "Suppose that you want to be completely over-the-top paranoid about making sure that when you execute some particular SQL statement on your Postgres database, you’re doing it in the safest and…",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

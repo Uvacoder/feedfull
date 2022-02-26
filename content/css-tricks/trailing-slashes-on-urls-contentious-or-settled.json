@@ -1,0 +1,10 @@
+{
+  "title": "Trailing Slashes on URLs: Contentious or Settled?",
+  "url": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
+  "date": "Fri, 25 Feb 2022 21:13:08 +0000",
+  "content": "<p>A fun deep dive from Zach. Do you have an opinion on which you should use?</p><pre rel=\"HTML\" class=\"wp-block-csstricks-code-block language-markup\" data-line=\"\"><code markup=\"tt\">1) https://website.com/foo/2) https://websites.com/foo</code></pre><p>The first option has a &#8220;trailing slash.&#8221; The second does not.</p><p>I&#8217;ve always preferred this thinking: you use a trailing &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/\">Trailing Slashes on URLs: Contentious or Settled?</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070",
+  "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
