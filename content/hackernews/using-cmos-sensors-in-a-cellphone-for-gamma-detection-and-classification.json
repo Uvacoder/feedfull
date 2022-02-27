@@ -1,0 +1,10 @@
+{
+  "title": "Using CMOS Sensors in a Cellphone for Gamma Detection and Classification",
+  "url": "https://arxiv.org/abs/1401.0766",
+  "date": "Sun, 27 Feb 2022 18:38:02 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30491128\">Comments</a>",
+  "image": null,
+  "description": "The CMOS camera found in many cellphones is sensitive to ionized electrons.\nGamma rays penetrate into the phone and produce ionized electrons that are then\ndetected by the camera. Thermal noise and other noise needs to be removed on\nthe phone, which requires an algorithm that has relatively low memory and\ncomputational requirements. The continuous high-delta algorithm described fits\nthose requirements. Only a small fraction of the energy of even the electron is\ndeposited in the camera sensor, so direct methods of measuring the energy\ncannot be used. The fraction of groups of lit up pixels that are lines is\ncorrelated with the energy of the gamma rays. This correlation under certain\nconditions allows limited low resolution energy resolution to be performed.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
