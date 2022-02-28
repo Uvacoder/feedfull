@@ -1,0 +1,10 @@
+{
+  "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
+  "url": "https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/",
+  "date": "Mon, 28 Feb 2022 15:37:23 +0000",
+  "content": "<p>We’ve discussed a lot about the internals of using CSS in this <a href=\"https://css-tricks.com/web-components-are-easier-than-you-think/\">ongoing series on web components</a>, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/\">Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929",
+  "description": "::part, in short, allows you to pierce the shadow tree, which is just my Lord-of-the-Rings-y way to say it lets you style elements inside the shadow DOM from",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
