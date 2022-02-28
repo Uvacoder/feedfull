@@ -1,0 +1,10 @@
+{
+  "title": "TorchRec, a library for modern production recommendation systems",
+  "url": "https://pytorch.org/blog/introducing-torchrec/",
+  "date": "Mon, 28 Feb 2022 04:09:38 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30496322\">Comments</a>",
+  "image": "https://pytorch.org/",
+  "description": "We are excited to announce TorchRec, a PyTorch domain library for Recommendation Systems. This new library provides common sparsity and parallelism primitives, enabling researchers to build state-of-the-art personalization models and deploy them in production.\n\n",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
