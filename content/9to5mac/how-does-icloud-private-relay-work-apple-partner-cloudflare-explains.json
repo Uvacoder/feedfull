@@ -1,0 +1,10 @@
+{
+  "title": "How does iCloud Private Relay work? Apple partner Cloudflare explains",
+  "url": "https://9to5mac.com/2022/03/02/how-does-icloud-private-relay-work-apple-partner-cloudflare-explains/",
+  "date": "Wed, 02 Mar 2022 14:50:04 +0000",
+  "content": "<div class=\"feat-image\"><img src=\"https://9to5mac.com/wp-content/uploads/sites/6/2022/03/icloud-relay.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>With iOS 15 and macOS Monterey 12 last year, Apple added a <a href=\"https://9to5mac.com/2021/12/23/turn-on-off-icloud-private-relay-ios-15-iphone-ipad/\">new iCloud Private Relay feature</a> that helps protect your internet privacy. The feature works by sending all of your internet requests through two separate and secure internet relays, including one operated by Apple and one operated by a third-party. </p><p>The web infrastructure company Cloudflare is one of those partners with which Apple is working, and it has published a <a href=\"https://blog.cloudflare.com/icloud-private-relay/\">new blog post detailing</a> its role in the iCloud Private Relay process. </p><p> <a href=\"https://9to5mac.com/2022/03/02/how-does-icloud-private-relay-work-apple-partner-cloudflare-explains/#more-790193\" class=\"more-link\">more…</a></p><p>The post <a rel=\"nofollow\" href=\"https://9to5mac.com/2022/03/02/how-does-icloud-private-relay-work-apple-partner-cloudflare-explains/\">How does iCloud Private Relay work? Apple partner Cloudflare explains</a> appeared first on <a rel=\"nofollow\" href=\"https://9to5mac.com\">9to5Mac</a>.</p>",
+  "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/icloud-relay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "description": "With iOS 15 and macOS Monterey 12 last year, Apple added a new iCloud Private Relay feature that helps protect your internet privacy. The feature works by sending all of your internet requests through two separate and secure internet relays, including one operated by Apple and one operated by a third-party. The web infrastructure company […]",
+  "publisher": "9to5Mac",
+  "publisherUrl": "http://9to5mac.com/"
+}

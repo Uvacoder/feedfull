@@ -1,0 +1,10 @@
+{
+  "title": "How to Make a “Raise the Curtains” Effect in CSS",
+  "url": "https://css-tricks.com/css-raise-the-curtains-effect/",
+  "date": "Wed, 02 Mar 2022 15:57:32 +0000",
+  "content": "<p>“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.</p><p>Here’s an example where I &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/css-raise-the-curtains-effect/\">How to Make a “Raise the Curtains” Effect in CSS</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882",
+  "description": "“Raise the curtains” is an effect where the background and content both change color while scrolling over a sticky element.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}

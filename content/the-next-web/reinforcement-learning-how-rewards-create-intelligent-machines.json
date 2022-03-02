@@ -1,0 +1,10 @@
+{
+  "title": "Reinforcement learning: How rewards create intelligent machines",
+  "url": "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind",
+  "date": "Wed, 02 Mar 2022 16:11:45 +0000",
+  "content": "<img src=\"https://img-cdn.tnwcdn.com/image?fit=796%2C417&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=df350bf547f81701a1cdd9631b069e20\" width=\"796\" height=\"417\"><br />In June 2021, scientists at the AI lab DeepMind made a controversial claim. The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function. “We hypothesize that intelligence, and its associated abilities, can be understood as subserving the maximization of reward,” the study authors wrote. Their claims have been dismissed by some scientists, but they nonetheless shine a spotlight on a powerful technique. What is reinforcement learning? In&#8230;<br /><br /><a href=\"https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind?utm_source=social&#038;utm_medium=feed&#038;utm_campaign=profeed\">This story continues</a> at The Next Web",
+  "image": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a",
+  "description": "The \"reward-is-enough\" hypothesis suggests that reinforcement learning alone could lead to AGI.",
+  "publisher": "The Next Web",
+  "publisherUrl": "https://thenextweb.com/"
+}
