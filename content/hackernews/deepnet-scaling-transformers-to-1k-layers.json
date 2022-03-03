@@ -1,0 +1,10 @@
+{
+  "title": "DeepNet: Scaling Transformers to 1k Layers",
+  "url": "https://arxiv.org/abs/2203.00555",
+  "date": "Wed, 2 Mar 2022 22:10:11 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30533914\">Comments</a>",
+  "image": null,
+  "description": "In this paper, we propose a simple yet effective method to stabilize\nextremely deep Transformers. Specifically, we introduce a new normalization\nfunction (DeepNorm) to modify the residual connection in Transformer,\naccompanying with theoretically derived initialization. In-depth theoretical\nanalysis shows that model updates can be bounded in a stable way. The proposed\nmethod combines the best of two worlds, i.e., good performance of Post-LN and\nstable training of Pre-LN, making DeepNorm a preferred alternative. We\nsuccessfully scale Transformers up to 1,000 layers (i.e., 2,500 attention and\nfeed-forward network sublayers) without difficulty, which is one order of\nmagnitude deeper than previous deep Transformers. Remarkably, on a multilingual\nbenchmark with 7,482 translation directions, our 200-layer model with 3.2B\nparameters significantly outperforms the 48-layer state-of-the-art model with\n12B parameters by 5 BLEU points, which indicates a promising scaling direction.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
