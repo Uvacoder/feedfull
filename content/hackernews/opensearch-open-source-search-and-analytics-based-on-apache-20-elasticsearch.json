@@ -1,0 +1,10 @@
+{
+  "title": "OpenSearch – open-source search and analytics based on Apache 2.0 Elasticsearch",
+  "url": "https://opensearch.org/",
+  "date": "Sat, 5 Mar 2022 17:17:47 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30569467\">Comments</a>",
+  "image": "https://opensearch.org/assets/img/logo-high-resolution.png",
+  "description": "OpenSearch is a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana 7.10.2. It consists of a search engine daemon, OpenSearch, and a visualization and user interface, OpenSearch Dashboards. OpenSearch enables people to easily ingest, secure, search, aggregate, view, and analyze data.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
