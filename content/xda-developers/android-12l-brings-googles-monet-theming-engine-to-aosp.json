@@ -1,0 +1,10 @@
+{
+  "title": "Android 12L brings Google’s Monet theming engine to AOSP",
+  "url": "https://www.xda-developers.com/monet-engine-open-sourced-android-12l/",
+  "date": "Tue, 08 Mar 2022 15:14:39 +0000",
+  "content": "<p>One of the most notable features of Android 12 is the new wallpaper-based dynamic theming system, codenamed &#8220;Monet.&#8221; The theme engine automatically pulls colors from your wallpaper and applies them to the system UI and supported apps. However, this cool feature has been exclusive to Google&#8217;s Pixel phones so far. But that&#8217;s set to change</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/monet-engine-open-sourced-android-12l/\">Android 12L brings Google&#8217;s Monet theming engine to AOSP</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2021/11/How-Googles-Material-You-system-works.jpg",
+  "description": "With Android 12L, Google has released the source code for the \"Monet\" theme engine to Android Open Source Project (AOSP).",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
