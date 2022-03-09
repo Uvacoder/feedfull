@@ -1,0 +1,10 @@
+{
+  "title": "It is high time we let go of the Mersenne Twister",
+  "url": "https://arxiv.org/abs/1910.06437",
+  "date": "Wed, 9 Mar 2022 07:06:34 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30611708\">Comments</a>",
+  "image": null,
+  "description": "When the Mersenne Twister made his first appearance in 1997 it was a powerful\nexample of how linear maps on $\\mathbf F_2$ could be used to generate\npseudorandom numbers. In particular, the easiness with which generators with\nlong periods could be defined gave the Mersenne Twister a large following, in\nspite of the fact that such long periods are not a measure of quality, and they\nrequire a large amount of memory. Even at the time of its publication, several\ndefects of the Mersenne Twister were predictable, but they were somewhat\nobscured by other interesting properties. Today the Mersenne Twister is the\ndefault generator in C compilers, the Python language, the Maple mathematical\ncomputation system, and in many other environments. Nonetheless, knowledge\naccumulated in the last $20$ years suggests that the Mersenne Twister has, in\nfact, severe defects, and should never be used as a general-purpose\npseudorandom number generator. Many of these results are folklore, or are\nscattered through very specialized literature. This paper surveys these results\nfor the non-specialist, providing new, simple, understandable examples, and it\nis intended as a guide for the final user, or for language implementors, so\nthat they can take an informed decision about whether to use the Mersenne\nTwister or not.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
