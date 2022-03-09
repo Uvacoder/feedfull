@@ -1,0 +1,10 @@
+{
+  "title": "Don’t use Python… if you’re starting a big project",
+  "url": "https://thenextweb.com/news/dont-use-python-for-big-projects",
+  "date": "Wed, 09 Mar 2022 15:40:26 +0000",
+  "content": "<img src=\"https://img-cdn.tnwcdn.com/image?fit=796%2C417&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpython-code.jpg&signature=8d478350594927078f86ca5435c4d2b0\" width=\"796\" height=\"417\"><br />There is a certain point in a developer’s career where you go from contributing to projects to inventing your own schtick. For some it’s earlier, for some later, and some never get there at all. Most developers with a long career do experience this point, though. I’ll call it the build-it-yourself point. If you’ve arrived there yet, you know what the first questions are: How does it work? What does the user experience? What’s the architecture? How does the data flow? And many more questions like this. I won’t answer these answers for you here. They’re highly specific to whichever&#8230;<br /><br /><a href=\"https://thenextweb.com/news/dont-use-python-for-big-projects?utm_source=social&#038;utm_medium=feed&#038;utm_campaign=profeed\">This story continues</a> at The Next Web",
+  "image": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpython-code.jpg&signature=381734fcda63033359d3b1c53b875634",
+  "description": "Want to start a large project? Keep away from Python. On a large scale it isn’t as awesome as you think — here's what to use instead.",
+  "publisher": "The Next Web",
+  "publisherUrl": "https://thenextweb.com/"
+}
