@@ -1,0 +1,10 @@
+{
+  "title": "Mealie – a self-hosted recipe manager and meal planner with a RestAPI back end",
+  "url": "https://github.com/hay-kot/mealie",
+  "date": "Thu, 10 Mar 2022 06:50:53 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30623852\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/f1d7353ed310fd0df2eb1d62b72a6a635ab97ab2e8aeb1b63391d6e2e918d5e2/hay-kot/mealie",
+  "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recip...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
