@@ -1,0 +1,10 @@
+{
+  "title": "Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF",
+  "url": "https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf",
+  "date": "Sat, 12 Mar 2022 06:05:49 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30649328\">Comments</a>",
+  "image": "https://assets.website-files.com/610cc7a5a58576a806711235/621e4779b3b5053469d6b939_KloudleThumbnail2.png",
+  "description": "Google Cloud Armor provides a rule-based policy framework that can be used by customers of the Google Cloud Platform to mitigate various types of common web application attacks. The Cloud Armor service has a documented limitation of 8 KB as the maximum size of web request that it will inspect. The default behavior of Cloud Armor in this case can allow malicious requests to bypass Cloud Armor and directly reach an underlying application.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
