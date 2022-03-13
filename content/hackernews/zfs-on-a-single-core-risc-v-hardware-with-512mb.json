@@ -1,0 +1,10 @@
+{
+  "title": "ZFS on a single core RISC-V hardware with 512MB",
+  "url": "https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/",
+  "date": "Sun, 13 Mar 2022 17:16:50 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30663400\">Comments</a>",
+  "image": null,
+  "description": "Is this feasible? Yes it is! OpenZFS on Linux compiled from sources for RISC-V, it will work with less than 250MB of RAM for a nearly fully filled 2TB zfs volume with 225.000 files! Even stressing the system and run in parallel (via Wifi): a…",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
