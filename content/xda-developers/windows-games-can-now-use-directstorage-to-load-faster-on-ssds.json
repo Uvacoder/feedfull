@@ -1,0 +1,10 @@
+{
+  "title": "Windows games can now use DirectStorage to load faster on SSDs",
+  "url": "https://www.xda-developers.com/directstorage-available-windows-games/",
+  "date": "Mon, 14 Mar 2022 22:00:54 +0000",
+  "content": "<p>Microsoft has announced that, starting today, Windows games can begin shipping with support for the DirectStorage API. This API first appeared on the Xbox Series X&#124;S and it allows games to load much faster by leveraging the full speed of modern NVMe SSDs. Microsoft had announced it for Windows back in September 2020, but only</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/directstorage-available-windows-games/\">Windows games can now use DirectStorage to load faster on SSDs</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2021/11/Xbox-app-home-page.jpg",
+  "description": "Microsoft has announced that Windows games can now use the DirectStorage API to take full advantage of fast SSDs to reduce load times.",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
