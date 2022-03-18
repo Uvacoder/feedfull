@@ -1,0 +1,10 @@
+{
+  "title": "On the Weaponisation of Open Source",
+  "url": "https://beny23.github.io/posts/on_weaponisation_of_open_source/",
+  "date": "Fri, 18 Mar 2022 18:57:27 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30726098\">Comments</a>",
+  "image": null,
+  "description": "First of all I need the preface this article on how much I abhor the Russian invasion of Ukraine and I wholeheartedly support the sanctions. However, I think the conflict has spilled over into areas of software development that have got some unintended consequences attached.\nAs part of this post, I’m going to look at\n the decision by MongoDB to cut off services in Russia the destructive change in a node library that deleted files on Russian IPs a change in code/licence in a community terraform module to assert that Putin is a dickhead  MongoDB cutting off Russian customers MongoDB is a company and in order to comply with sanctions they have decided to cut off Russian customers.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
