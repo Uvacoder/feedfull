@@ -1,0 +1,10 @@
+{
+  "title": "Kaitai Struct: A new way to develop parsers for binary structures",
+  "url": "https://kaitai.io/",
+  "date": "Thu, 17 Mar 2022 20:13:30 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30715406\">Comments</a>",
+  "image": null,
+  "description": "Kaitai Struct is a formal language for binary format specification that can be compiled into parser code",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
