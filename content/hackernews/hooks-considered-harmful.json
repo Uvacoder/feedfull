@@ -1,0 +1,10 @@
+{
+  "title": "Hooks Considered Harmful",
+  "url": "https://labs.factorialhr.com/posts/hooks-considered-harmful",
+  "date": "Mon, 21 Mar 2022 12:11:29 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30753127\">Comments</a>",
+  "image": "/images/downloaded/cover/b5fb9d47-93e4-4d0d-9a92-3652474bbf4f.jpg",
+  "description": "React hooks changed radically how we build frontend applications allowing engineers to separate stateful logic from rendering. However, under a seemingly simple API there are some aspects of React hooks that are the source of bugs and performance issues. In this article, we will do a deep dive into the javascript internals to help us understand and overcome those pitfalls.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
