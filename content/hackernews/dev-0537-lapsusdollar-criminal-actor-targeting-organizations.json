@@ -1,0 +1,10 @@
+{
+  "title": "DEV-0537 (LAPSUS$) Criminal actor targeting organizations",
+  "url": "https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/",
+  "date": "Wed, 23 Mar 2022 03:05:53 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30774406\">Comments</a>",
+  "image": "https://www.microsoft.com/security/blog/wp-content/uploads/2021/03/Win17_15021_00_N14.jpg",
+  "description": "The activity we have observed has been attributed to a threat group that Microsoft tracks as DEV-0537, also known as LAPSUS$. DEV-0537 is known for using a pure extortion and destruction model without deploying ransomware payloads.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
