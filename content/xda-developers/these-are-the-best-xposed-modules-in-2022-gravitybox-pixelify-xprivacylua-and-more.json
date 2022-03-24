@@ -1,0 +1,10 @@
+{
+  "title": "These are the Best Xposed Modules in 2022: GravityBox, Pixelify, XPrivacyLua, and more!",
+  "url": "https://www.xda-developers.com/best-xposed-modules/",
+  "date": "Thu, 24 Mar 2022 14:10:03 +0000",
+  "content": "<p>If you just recently picked up Android modding, then you probably don’t really know about the Xposed Framework. With root access, the framework hooks into ART (the Android runtime) and lets add-ons, called Xposed modules, execute their own methods before, during, or in place of the original methods of the target application. As a result,</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/best-xposed-modules/\">These are the Best Xposed Modules in 2022: GravityBox, Pixelify, XPrivacyLua, and more!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2022/03/Best-Xposed-Modules-featured.jpg",
+  "description": "Looking for some of the best Xposed modules for modding? We’ve got all the information you need to get started right here. Read on!",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
