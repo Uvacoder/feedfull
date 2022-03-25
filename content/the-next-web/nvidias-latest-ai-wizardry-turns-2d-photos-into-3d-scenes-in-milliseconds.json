@@ -1,0 +1,10 @@
+{
+  "title": "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds",
+  "url": "https://thenextweb.com/news/nvidia-latest-ai-wizardry-turns-2d-photos-into-3d-scenes-in-milliseconds",
+  "date": "Fri, 25 Mar 2022 13:18:57 +0000",
+  "content": "<img src=\"https://img-cdn.tnwcdn.com/image?fit=796%2C417&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=854f559b115834ce46cafdc4a699991d\" width=\"796\" height=\"417\"><br />Nvidia events are renowned for mixing technical bravado with splashes of showmanship — and this year’s GTC conference was no exception. The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy demo. Some 75 years after the world’s first instant photo captured the 3D world in a 2D picture, Nvidia showcased the inverse: turning 2D images into a 3D scene within milliseconds. Dubbed Instant NeRF, the technique involves training a neural rendering model on a few dozen still photos, alongside data on the camera angle for each shot. The system then fills in the&#8230;<br /><br /><a href=\"https://thenextweb.com/news/nvidia-latest-ai-wizardry-turns-2d-photos-into-3d-scenes-in-milliseconds?utm_source=social&#038;utm_medium=feed&#038;utm_campaign=profeed\">This story continues</a> at The Next Web",
+  "image": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=995be6c270f72e8df02361a4130e08bb",
+  "description": "75 years after the first instant photo captured the 3D world in 2D, AI did the inverse: turning 2D images into 3D scenes almost instantly.",
+  "publisher": "The Next Web",
+  "publisherUrl": "https://thenextweb.com/"
+}
