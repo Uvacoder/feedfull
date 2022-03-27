@@ -1,0 +1,10 @@
+{
+  "title": "Python 3.11 in the Web Browser",
+  "url": "https://2022.pycon.de/program/SBCNDY/",
+  "date": "Sat, 26 Mar 2022 20:35:40 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30815122\">Comments</a>",
+  "image": "https://2022.pycon.de/static/media/twitter/SBCNDY.png?h=690b9e98",
+  "description": "Compile CPython to Web Assembly, and run it in web browsers or Node.js.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
