@@ -1,0 +1,10 @@
+{
+  "title": "Mach v0.1:  Cross-platform Zig graphics",
+  "url": "https://devlog.hexops.com/2022/mach-v0.1-zig-graphics-in-60s",
+  "date": "Sun, 27 Mar 2022 10:36:47 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30819206\">Comments</a>",
+  "image": "https://user-images.githubusercontent.com/3173176/160258304-3335a609-6177-4c1a-9008-d9525bd72c85.png",
+  "description": "Five months ago we announced some of our vision for Mach &amp; the future of graphics with Zig. Today we’ve reached Mach v0.1 with over 1,100 commits.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

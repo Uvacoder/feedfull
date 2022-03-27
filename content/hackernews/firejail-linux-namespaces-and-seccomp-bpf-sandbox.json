@@ -1,0 +1,10 @@
+{
+  "title": "Firejail: Linux namespaces and seccomp-bpf sandbox",
+  "url": "https://github.com/netblue30/firejail",
+  "date": "Sun, 27 Mar 2022 14:11:14 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30820387\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/0d3a0ec211e482729276b5f5fc71b7635039a3d5164ab61896894b9ad54defe6/netblue30/firejail",
+  "description": "Linux namespaces and seccomp-bpf sandbox. Contribute to netblue30/firejail development by creating an account on GitHub.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
