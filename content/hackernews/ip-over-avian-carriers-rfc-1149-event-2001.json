@@ -1,0 +1,10 @@
+{
+  "title": "IP over Avian Carriers RFC 1149 event (2001)",
+  "url": "https://www.blug.linux.no/rfc1149/writeup/",
+  "date": "Tue, 29 Mar 2022 14:13:25 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30842778\">Comments</a>",
+  "image": null,
+  "description": "Finally, rfc 1149 is implemented! On saturday 28th of april 2001, the worlds very first rfc 1149 network was tested. The weather was quite nice, despite being in one of the most rainy places in Norway.\nThe ping was started approximately at 12:15. We decided to do a 7 1/2 minute interval between the ping packets, that would leave a couple of packets unanswered, given ideal situations. Things didn’t happen quite that way, though.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
