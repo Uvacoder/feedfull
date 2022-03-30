@@ -1,0 +1,10 @@
+{
+  "title": "A Sinister Way to Beat Multifactor Authentication Is on the Rise",
+  "url": "https://www.wired.com/story/multifactor-authentication-prompt-bombing-on-the-rise",
+  "date": "Wed, 30 Mar 2022 20:00:00 +0000",
+  "content": "Lapsus$ and the group behind the SolarWinds hack have utilized prompt bombing to defeat weaker MFA protections in recent months.",
+  "image": "https://media.wired.com/photos/6243e4e1edc71717de2ded19/191:100/w_1280,c_limit/Multi-Factor-Authentication-Security-157189108.jpg",
+  "description": "Lapsus$ and the group behind the SolarWinds hack have utilized prompt bombing to defeat weaker MFA protections in recent months.",
+  "publisher": "Wired",
+  "publisherUrl": "https://www.wired.com/"
+}

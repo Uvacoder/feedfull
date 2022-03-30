@@ -1,0 +1,10 @@
+{
+  "title": "Tricks to Cut Corners Using CSS Mask and Clip-Path Properties",
+  "url": "https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/",
+  "date": "Wed, 30 Mar 2022 16:35:08 +0000",
+  "content": "<p>We recently covered creating <a href=\"https://css-tricks.com/css-borders-using-masks/\">fancy borders</a> with CSS <code>mask</code> properties, and now we are going to cut the corners with CSS <code>mask</code> <em>and</em> <code>clip-path</code>! A lot of techniques exist to cut different shapes from the corners of any element. &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/\">Tricks to Cut Corners Using CSS Mask and Clip-Path Properties</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364279",
+  "description": "We recently covered creating fancy borders with CSS, and now we are going to cut the corners with gradients and CSS masks!",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
