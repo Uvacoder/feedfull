@@ -1,0 +1,10 @@
+{
+  "title": "Grafana Mimir – Horizontally scalable long-term storage for Prometheus",
+  "url": "https://grafana.com/oss/mimir/",
+  "date": "Wed, 30 Mar 2022 13:13:14 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30854734\">Comments</a>",
+  "image": "https://grafana.com/static/img/metrics/grafana-mimir-meta.png",
+  "description": "Grafana Mimir is an open source, horizontally scalable, highly available multi-tenant, long-term storage for Prometheus metrics.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
