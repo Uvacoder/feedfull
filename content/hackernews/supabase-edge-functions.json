@@ -1,0 +1,10 @@
+{
+  "title": "Supabase Edge Functions",
+  "url": "https://supabase.com/blog/2022/03/31/supabase-edge-functions",
+  "date": "Thu, 31 Mar 2022 16:13:50 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30868849\">Comments</a>",
+  "image": "https://supabase.com/images/blog/launch-week-4/thursday-functions/functions-thumb.png",
+  "description": "Today we're launching Edge Functions. Edge Functions let you execute Typescript code close to your users, no matter where they're located.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
