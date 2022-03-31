@@ -1,0 +1,10 @@
+{
+  "title": "What is triald and why is it taking so much disk space?",
+  "url": "https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/",
+  "date": "Thu, 31 Mar 2022 07:05:43 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30864613\">Comments</a>",
+  "image": "https://eclecticlightdotcom.files.wordpress.com/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+  "description": "Is a process named triald stealing lots of CPU? Or maybe ~/Library/Trial is huge, or filling your backups? Maybe it’s all just one of Apple’s Experiments.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
