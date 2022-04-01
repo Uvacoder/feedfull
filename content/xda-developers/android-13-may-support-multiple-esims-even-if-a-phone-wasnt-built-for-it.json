@@ -1,0 +1,10 @@
+{
+  "title": "Android 13 may support multiple eSIMs, even if a phone wasn’t built for it",
+  "url": "https://www.xda-developers.com/android-13-esim-report/",
+  "date": "Fri, 01 Apr 2022 18:11:22 +0000",
+  "content": "<p>Phones have traditionally used physical cards called SIM cards to connect to cellular networks, but there has been slow progress on switching to a digital version called eSIM. One of the reasons we haven&#8217;t seen more phones dropping the SIM card slot entirely is that Android doesn&#8217;t have great support for multiple eSIMs, which needs</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/android-13-esim-report/\">Android 13 may support multiple eSIMs, even if a phone wasn&#8217;t built for it</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2022/02/Android-13-Featured-Image_1_1.jpg",
+  "description": "Google is working on a way to use a single eSIM module for multiple eSIMs, according to code in Android 13.",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
