@@ -1,0 +1,10 @@
+{
+  "title": "How we secure Monzo's banking platform",
+  "url": "https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform/",
+  "date": "Fri, 1 Apr 2022 09:36:37 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30876527\">Comments</a>",
+  "image": "https://images.ctfassets.net/ro61k101ee59/3SBgbxyjwG3mPwPuYPEI6b/17cfdcccd5b97fa8c20b10f61fe626a7/Fraud_Blogposts-Security.png",
+  "description": "Our Security Infrastructure team introduces the principles we follow to build security in Monzo’s fast-moving engineering environment and how they work with other engineering teams to keep our customers and platform safe.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
