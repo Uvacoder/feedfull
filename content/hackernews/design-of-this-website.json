@@ -1,0 +1,10 @@
+{
+  "title": "Design of This Website",
+  "url": "https://www.gwern.net/Design",
+  "date": "Wed, 6 Apr 2022 03:15:02 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30928081\">Comments</a>",
+  "image": "https://www.gwern.net/images/design/2020-12-25-gwern.net-recursivepopups.png",
+  "description": "Meta page describing Gwern.net site implementation and experiments for better ‘structural reading’ of hypertext; technical decisions using Markdown and static hosting.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
