@@ -1,0 +1,10 @@
+{
+  "title": "AWS Lambda function URLs: Built-in HTTPS endpoints",
+  "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/",
+  "date": "Wed, 6 Apr 2022 21:07:47 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30937433\">Comments</a>",
+  "image": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+  "description": "Organizations are adopting microservices architectures to build resilient and scalable applications using AWS Lambda. These applications are composed of multiple serverless functions that implement the business logic. Each function is mapped to API endpoints, methods, and resources using services such as Amazon API Gateway and Application Load Balancer. But sometimes all you need is a […]",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
