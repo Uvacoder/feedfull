@@ -1,0 +1,10 @@
+{
+  "title": "NPM package event-source-polyfill compromised by political activists",
+  "url": "https://github.com/Yaffle/EventSource/blob/de137927e13d8afac153d2485152ccec48948a7a/src/eventsource.js",
+  "date": "Fri, 8 Apr 2022 23:08:39 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30963600\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/ea3b0c02fbaac804d7d6bda0a2c5c92efa87250dcb6662d6c048e99d20810704/Yaffle/EventSource",
+  "description": "a polyfill for http://www.w3.org/TR/eventsource/. Contribute to Yaffle/EventSource development by creating an account on GitHub.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
