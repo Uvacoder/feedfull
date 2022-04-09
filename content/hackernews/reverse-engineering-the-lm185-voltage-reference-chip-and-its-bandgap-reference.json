@@ -1,0 +1,10 @@
+{
+  "title": "Reverse-engineering the LM185 voltage reference chip and its bandgap reference",
+  "url": "https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html",
+  "date": "Sat, 9 Apr 2022 18:24:35 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30970599\">Comments</a>",
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex5W92QgU4tMJreNnYRFwCSsrJuimMLZuonecZq6aTuXmgKsNS4oYVDGlYKaMSTWnh9H6A9W1PqWz12qNVXxP3BUoaJy1vHo-Iz8Ah5su1TwQGVu4d3eQ=w1200-h630-p-k-no-nu",
+  "description": " Many circuits, such as a computer power supply or a phone charger, require a stable voltage reference, but it's harder than you might expec...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Raspberry Pi Pico: What is this obfuscated code(?) doing in its boot ROM (l.442)",
+  "url": "https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S",
+  "date": "Sat, 9 Apr 2022 17:53:18 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30970274\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/c6080d42cbd44e1a1572aeaa26956dd45fb6b6a52fff018ea696139c423fca88/raspberrypi/pico-bootrom",
+  "description": "Contribute to raspberrypi/pico-bootrom development by creating an account on GitHub.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
