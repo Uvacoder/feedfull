@@ -1,0 +1,10 @@
+{
+  "title": "How and why Daily is using Rust for our WebRTC APIs",
+  "url": "https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/",
+  "date": "Mon, 11 Apr 2022 15:39:49 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30990297\">Comments</a>",
+  "image": "https://www.daily.co/blog/content/images/2022/04/Rust-directory-image--1-.png",
+  "description": "Exploring why Rust is our preferred language for a core WebRTC library",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

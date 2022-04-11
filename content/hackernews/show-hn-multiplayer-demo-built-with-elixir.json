@@ -1,0 +1,10 @@
+{
+  "title": "Show HN: Multiplayer Demo Built with Elixir",
+  "url": "https://multiplayer.dev",
+  "date": "Mon, 11 Apr 2022 18:15:06 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30992587\">Comments</a>",
+  "image": "https://multiplayer.dev/img/multiplayer-og.png",
+  "description": "Realtime collaborative app to display broadcast, presence, and database listening over WebSockets",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
