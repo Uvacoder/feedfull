@@ -1,0 +1,10 @@
+{
+  "title": "WireGuard multihop available in the Mullvad app",
+  "url": "https://mullvad.net/en/blog/2022/3/10/wireguard-multihop-now-easy-available-app/",
+  "date": "Tue, 12 Apr 2022 16:54:12 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31005209\">Comments</a>",
+  "image": "https://mullvad.net/media/uploads/2022/03/10/multihop1.png",
+  "description": "To further increase your privacy and make your traffic harder to analyze, you can now route all your traffic through two servers instead of just one, directly in our desktop app, version 2022.1 and newer.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
