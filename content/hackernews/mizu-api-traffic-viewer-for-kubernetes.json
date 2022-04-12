@@ -1,0 +1,10 @@
+{
+  "title": "Mizu – API traffic viewer for Kubernetes",
+  "url": "https://github.com/up9inc/mizu",
+  "date": "Sun, 10 Apr 2022 12:01:32 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30976293\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/15bddb222230687d637ec2fb00f8c6b54762c8c957ca967ca7d6006a5926a2da/up9inc/mizu",
+  "description": "API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes - GitHub - up9inc/mizu: API traffic viewer...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
