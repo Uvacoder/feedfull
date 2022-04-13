@@ -1,0 +1,10 @@
+{
+  "title": "A Modern Self-Referential Weight Matrix That Learns to Modify Itself",
+  "url": "https://arxiv.org/abs/2202.05780",
+  "date": "Wed, 13 Apr 2022 16:12:30 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31016447\">Comments</a>",
+  "image": null,
+  "description": "The weight matrix (WM) of a neural network (NN) is its program. The programs\nof many traditional NNs are learned through gradient descent in some error\nfunction, then remain fixed. The WM of a self-referential NN, however, can keep\nrapidly modifying all of itself during runtime. In principle, such NNs can\nmeta-learn to learn, and meta-meta-learn to meta-learn to learn, and so on, in\nthe sense of recursive self-improvement. While NN architectures potentially\ncapable of implementing such behavior have been proposed since the '90s, there\nhave been few if any practical studies. Here we revisit such NNs, building upon\nrecent successes of fast weight programmers and closely related linear\nTransformers. We propose a scalable self-referential WM (SRWM) that uses outer\nproducts and the delta update rule to modify itself. We evaluate our SRWM in\nsupervised few-shot learning and in multi-task reinforcement learning with\nprocedurally generated game environments. Our experiments demonstrate both\npractical applicability and competitive performance of the proposed SRWM. Our\ncode is public.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
