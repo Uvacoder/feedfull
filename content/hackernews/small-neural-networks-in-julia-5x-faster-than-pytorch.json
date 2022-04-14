@@ -1,0 +1,10 @@
+{
+  "title": "Small Neural networks in Julia 5x faster than PyTorch",
+  "url": "https://julialang.org/blog/2022/04/simple-chains/",
+  "date": "Thu, 14 Apr 2022 14:13:22 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31027299\">Comments</a>",
+  "image": "/assets/images/julia-open-graph.png",
+  "description": "Doing small network scientific machine learning in Julia 5x faster than PyTorch ...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
