@@ -1,0 +1,10 @@
+{
+  "title": "Neovim 0.7 Released",
+  "url": "https://github.com/neovim/neovim/releases/tag/v0.7.0",
+  "date": "Fri, 15 Apr 2022 12:45:47 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31039569\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/9f7ea87ac50e2341df5ace5c98e4b9cc019fe460964415dcc82e66673b9c22f3/neovim/neovim/releases/tag/v0.7.0",
+  "description": "NVIM v0.7.0\nBuild type: Release\nLuaJIT 2.1.0-beta3\n\n\nInstall\nWindows\nZip\n\nDownload nvim-win64.zip\nExtract the zip.\nRun nvim-qt.exe\n\nMSI\n\nDownload nvim-win64.msi\nRun the MSI\nSearch and run nvim-qt.e...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Android 13 finally adds native support for DNS over HTTPS",
+  "url": "https://www.xda-developers.com/android-13-dns-https-support/",
+  "date": "Fri, 15 Apr 2022 13:45:19 +0000",
+  "content": "<p>Android has supported DNS-over-TLS (DoT) since Android 9.0 Pie. It&#8217;s available in your phone&#8217;s Network &#38; internet settings under the name Private DNS. In September last year, a code change spotted in the Android Open Source Project (AOSP) suggested that Google was planning to add DNS over HTTPS support in Android 13. And, it’s now</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/android-13-dns-https-support/\">Android 13 finally adds native support for DNS over HTTPS</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2022/02/Android-13-icon-on-gradient-background.jpg",
+  "description": "Android 13 finally adds native support for DNS over HTTPS (DoH). DNS over HTTPS uses HTTP or HTTP/2 protocols to encrypt DNS traffic.",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
