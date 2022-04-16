@@ -1,0 +1,10 @@
+{
+  "title": "Using SBCL Common Lisp as a Dynamic Library",
+  "url": "https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html",
+  "date": "Sat, 16 Apr 2022 18:30:26 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31054796\">Comments</a>",
+  "image": null,
+  "description": " Have you ever wanted to call into your Lisp library from C? Have you ever written your nice scientific application in Lisp, only to be requ...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

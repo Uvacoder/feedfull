@@ -1,0 +1,10 @@
+{
+  "title": "Zig self hosted compiler is now capable of building itself",
+  "url": "https://github.com/ziglang/zig/pull/11442",
+  "date": "Sat, 16 Apr 2022 13:11:28 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31052029\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/f4db1b85db6f5be84536d2dc5b5a44679f2d80908f467f84246ba2f0ca12beb6/ziglang/zig/pull/11442",
+  "description": "$ zig build -Denable-llvm\n$ zig2 build -p build-stage3\n$ cat a.zig\nconst std = @import(\"std\");\npub fn main() void {\n    const stderr = std.io.getStdErr();\n    stderr.writeAll(\"Hello, world!\\n\") cat...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
