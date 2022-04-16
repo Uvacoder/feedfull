@@ -1,0 +1,10 @@
+{
+  "title": "Calculating Pi on the 4004",
+  "url": "https://mark.engineer/2022/04/calculating-pi-digits-on-first-intel-microprocessor-intel-4004/",
+  "date": "Sat, 16 Apr 2022 12:02:34 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31051635\">Comments</a>",
+  "image": "https://mark.engineer/wp-content/uploads/2022/04/testing_cropped.jpg",
+  "description": "Calculation of π on intel's first microprocessor with RAM and ROM simulation, running on stm32 microcontroller.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
