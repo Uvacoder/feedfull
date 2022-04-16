@@ -1,0 +1,10 @@
+{
+  "title": "Re-implementing an old DOS game in C++ 17",
+  "url": "https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/",
+  "date": "Fri, 15 Apr 2022 22:18:04 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31046598\">Comments</a>",
+  "image": "https://lethalguitar.files.wordpress.com/2019/05/img_20190504_144602.jpg",
+  "description": "Back in 2016, I started a side project to reverse engineer the game Duke Nukem II and build an open source reimplementation of its engine from scratch – called Rigel Engine (Check it out on GitHub)…",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
