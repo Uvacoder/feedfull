@@ -1,0 +1,10 @@
+{
+  "title": "Choosing the Right Integers",
+  "url": "https://www.thecodedmessage.com/posts/programming-integers/",
+  "date": "Sun, 17 Apr 2022 15:50:34 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31061683\">Comments</a>",
+  "image": "https://www.thecodedmessage.com/img/favicon/green.png",
+  "description": "Paying attention to beginner questions is important. While many are just re-hashes of things that books have explained 1000 times, some are quite interesting, like this one that I saw recently in a Reddit post:\n How do I determine when to use i8-64 (same for u8-64)?\n Now, here is a surprisingly hard question. It&rsquo;s really easy to find out what i16 and u8 and friends mean, and what they do: the appropriate section comes really early in The Book.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
