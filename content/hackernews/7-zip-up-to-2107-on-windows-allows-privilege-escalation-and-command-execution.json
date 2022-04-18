@@ -1,0 +1,10 @@
+{
+  "title": "7-Zip up to 21.07 on Windows allows privilege escalation and command execution",
+  "url": "https://github.com/kagancapar/CVE-2022-29072",
+  "date": "Mon, 18 Apr 2022 13:29:24 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31070256\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/7d240059e58f8a9c866089746a3185a63195ea607e1d55eba32bbd90cbaf7798/kagancapar/CVE-2022-29072",
+  "description": "7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area. - GitHub - kagancapar/CVE-2022-29072: 7-...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
