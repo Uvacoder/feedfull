@@ -1,0 +1,10 @@
+{
+  "title": "Netlify Edge Functions: A new serverless runtime powered by Deno",
+  "url": "https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions",
+  "date": "Tue, 19 Apr 2022 15:18:06 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31084301\">Comments</a>",
+  "image": "https://cdn.sanity.io/images/o0o2tn5x/production/c1180899f281dd7681304cb1b2d021c3fe6af919-1200x631.png",
+  "description": "Build fast, personalized web experiences with Netlify Edge Functions: a serverless runtime built for on Deno, and compatible with your favorite JavaScript frameworks.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

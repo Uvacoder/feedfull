@@ -1,0 +1,10 @@
+{
+  "title": "How we upgraded our 4TB Postgres database",
+  "url": "https://retool.com/blog/how-we-upgraded-postgresql-database/",
+  "date": "Tue, 19 Apr 2022 15:07:10 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31084147\">Comments</a>",
+  "image": "https://retool.com/blog/content/images/2022/04/1.91_1-ratio-1--2-.png",
+  "description": "Last fall, we migrated our 4TB Postgres database from version 9.6 to version 13 with minimal downtime. In this post, we’ll tell the story and share tips to help you with a similar upgrade.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
