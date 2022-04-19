@@ -1,0 +1,10 @@
+{
+  "title": "How to fix \"cannot use import statement outside a module\"",
+  "url": "https://flaviocopes.com/fix-cannot-use-import-outside-module/",
+  "date": "Tue, 19 Apr 2022 07:00:00 +0200",
+  "content": "        <p>I stumbled on this error: <strong>Uncaught SyntaxError: cannot use import statement outside a module</strong> while importing a function from a JavaScript file.</p><p>This error occurs for one reason: you&rsquo;re trying to use <code>import</code> and you&rsquo;re not inside an <a href=\"https://flaviocopes.com/es-modules/\"><strong>ES module</strong></a>.</p><p>It can happen in a Node.js environment, or in the browser.</p><p>First, here&rsquo;s the solution for Node.js: I had to add a <code>package.json</code> file in the folder of the project and add:</p><div class=\"highlight\"><pre tabindex=\"0\" ><code class=\"language-json\" data-lang=\"json\">{  <span >&#34;type&#34;</span>: <span >&#34;module&#34;</span>}</code></pre></div><p>In the browser instead, you have to add the <code>type</code> attribute with the value <code>module</code> when you load the script, like this:</p><div class=\"highlight\"><pre tabindex=\"0\" ><code class=\"language-html\" data-lang=\"html\">&lt;<span >script</span> <span >type</span><span >=</span><span >&#34;module&#34;</span> <span >src</span><span >=</span><span >&#34;./file.js&#34;</span>&gt;&lt;/<span >script</span>&gt;</code></pre></div><p>instead of</p><div class=\"highlight\"><pre tabindex=\"0\" ><code class=\"language-html\" data-lang=\"html\">&lt;<span >script</span> <span >src</span><span >=</span><span >&#34;./file.js&#34;</span>&gt;&lt;/<span >script</span>&gt;</code></pre></div>      ",
+  "image": "https://flaviocopes.com/img/avatar.png",
+  "description": "Here is how to fix the error Uncaught SyntaxError: cannot use import statement outside a module in JavaScript.",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}
