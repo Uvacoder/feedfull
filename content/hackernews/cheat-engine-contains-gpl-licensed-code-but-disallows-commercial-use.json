@@ -1,0 +1,10 @@
+{
+  "title": "Cheat Engine contains GPL-licensed code but disallows commercial use",
+  "url": "https://github.com/cheat-engine/cheat-engine/pull/1872",
+  "date": "Tue, 19 Apr 2022 15:05:55 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31084128\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/00fdb433dce460b917ba4e5478e95b29c92c851f0bf817258078cca0abf849b7/cheat-engine/cheat-engine/pull/1872",
+  "description": "You're using some GNU GPL'ed software.\nPlease change license of CE to GNU GPL (just confirm this PR)",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
