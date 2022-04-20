@@ -1,0 +1,10 @@
+{
+  "title": "Chrome will lock down Gamepad API because it can be used for tracking",
+  "url": "https://www.xda-developers.com/chrome-gamepad-api-changes/",
+  "date": "Wed, 20 Apr 2022 17:52:51 +0000",
+  "content": "<p>Most web browsers have offered a Gamepad API for several years, which allows web apps and games to access physical game controllers. However, the API can be used to track people across the web in addition to its intended use, which is why Firefox and some other browsers have restricted its use. Google is now</p><p>The post <a rel=\"nofollow\" href=\"https://www.xda-developers.com/chrome-gamepad-api-changes/\">Chrome will lock down Gamepad API because it can be used for tracking</a> appeared first on <a rel=\"nofollow\" href=\"https://www.xda-developers.com\">xda-developers</a>.</p>",
+  "image": "https://www.xda-developers.com/files/2021/02/Sony-DualSense-Wireless-controller-xda-4.jpg",
+  "description": "Most web browsers have offered a Gamepad API for several years, which allows web apps and games to access physical game controllers. However, the API can be used to track people across the web in addition to its intended use, which is why Firefox and some other browsers have restricted its use. Google is now",
+  "publisher": "XDA Developers",
+  "publisherUrl": "https://www.xda-developers.com/feed/"
+}
