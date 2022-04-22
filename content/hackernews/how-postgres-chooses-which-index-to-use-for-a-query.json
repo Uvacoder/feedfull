@@ -1,0 +1,10 @@
+{
+  "title": "How Postgres chooses which index to use for a query",
+  "url": "https://pganalyze.com/blog/how-postgres-chooses-index",
+  "date": "Thu, 21 Apr 2022 21:37:14 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31115492\">Comments</a>",
+  "image": "https://pganalyze.com/static/375658421f02d3a5d0c44edb98ce05f2/fcb2f/how_postgres_chooses_index_pganalyze.jpg",
+  "description": "How the Postgres planner breaks down a query into scans and how this impacts indexing choices",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
