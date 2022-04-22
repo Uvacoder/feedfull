@@ -1,0 +1,10 @@
+{
+  "title": "Common Lisp Resources",
+  "url": "https://lisp-journey.gitlab.io/resources/",
+  "date": "Fri, 22 Apr 2022 11:31:06 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31120359\">Comments</a>",
+  "image": "/images/default.png",
+  "description": "lisp-lang.org Common Lisp Cookbook awesome-cl  learning and tutorials  Lisp project of the day Google&rsquo;s Lisp koans Lisp tips a GitHub repository where anybody can post tips an tricks.    search libraries on http://quickdocs.org/  Individual sites:  sjl&rsquo;s road to Lisp Martin Cracauer&rsquo;s Gentle Introduction to compile-time computing - excellent article series  Screencasts: Of course, see my Udemy Lisp course!I also post videos on Youtube, check this out:",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
