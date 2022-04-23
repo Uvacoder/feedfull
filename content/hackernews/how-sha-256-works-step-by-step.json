@@ -1,0 +1,10 @@
+{
+  "title": "How SHA-256 Works Step-by-Step",
+  "url": "https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/",
+  "date": "Fri, 22 Apr 2022 23:22:55 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31129484\">Comments</a>",
+  "image": "https://blog.boot.dev/img/800/1_Gs1cLsPT1FdiGZeI0h2RiQ-scaled-e1594217355954.webp",
+  "description": "SHA-2 (Secure Hash Algorithm 2), of which SHA-256 is a part, is one of the most popular hash algorithms around. A cryptographic hash, also often referred to as a “digest”, “fingerprint” or “signature”, is an almost perfectly unique string of characters that is generated from a separate piece of input text. For example, SHA-256 generates a 256-bit (32-byte) signature.\nFurther down in this article, we will break down each step of SHA 256’s cryptographic algorithm and work through a real example by hand.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
