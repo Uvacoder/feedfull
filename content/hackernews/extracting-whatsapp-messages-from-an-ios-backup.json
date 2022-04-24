@@ -1,0 +1,10 @@
+{
+  "title": "Extracting WhatsApp Messages from an iOS Backup",
+  "url": "https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/",
+  "date": "Sun, 24 Apr 2022 03:22:08 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31141042\">Comments</a>",
+  "image": "https://yasoob.me/images/exploring-ios-backup/hero.png",
+  "description": "Hi everyone! 👋 I was recently exploring how to get a local backup of WhatsApp messages from my iPhone. I switched from Android to iOS in the past and lost all of my WhatsApp messages. I wanted to make sure that if I switched again from iOS to Android I don’t lose any messages. I don’t really care if I can import the messages in WhatsApp. I just don’t want to lose all of the important information I have in my chats.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
