@@ -1,0 +1,10 @@
+{
+  "title": "Patching an Embedded Synthesiser OS from 1996 with Ghidra",
+  "url": "http://blog.petersobot.com/patching-the-k2500",
+  "date": "Sun, 24 Apr 2022 14:05:17 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31144106\">Comments</a>",
+  "image": "https://svbtleusercontent.com/3zouwM9N4uforzGEfhdaUi0xspap.png",
+  "description": "For reasons I won’t get into, I’ve been working on a tricky reverse engineering puzzle recently: how to patch the operating system of a 26-year-old synthesizer. To be specific, the Kurzweil K2500, a sample-based synthesizer released in 1996. As... | Peter Sobot | I teach computers to listen to music. 🇨🇦🎶👨🏼‍🔬🥁🎹🎸 ",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
