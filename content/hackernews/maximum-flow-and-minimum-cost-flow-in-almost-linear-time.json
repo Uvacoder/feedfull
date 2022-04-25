@@ -1,0 +1,10 @@
+{
+  "title": "Maximum Flow and Minimum-Cost Flow in Almost-Linear Time",
+  "url": "https://arxiv.org/abs/2203.00671",
+  "date": "Sun, 24 Apr 2022 22:54:03 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31149038\">Comments</a>",
+  "image": null,
+  "description": "We give an algorithm that computes exact maximum flows and minimum-cost flows\non directed graphs with $m$ edges and polynomially bounded integral demands,\ncosts, and capacities in $m^{1+o(1)}$ time. Our algorithm builds the flow\nthrough a sequence of $m^{1+o(1)}$ approximate undirected minimum-ratio cycles,\neach of which is computed and processed in amortized $m^{o(1)}$ time using a\ndynamic data structure.\n  Our framework extends to an algorithm running in $m^{1+o(1)}$ time for\ncomputing flows that minimize general edge-separable convex functions to high\naccuracy. This gives an almost-linear time algorithm for several problems\nincluding entropy-regularized optimal transport, matrix scaling, $p$-norm\nflows, and isotonic regression.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
