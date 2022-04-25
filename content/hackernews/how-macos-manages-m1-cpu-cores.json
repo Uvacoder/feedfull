@@ -1,0 +1,10 @@
+{
+  "title": "How macOS manages M1 CPU cores",
+  "url": "https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/",
+  "date": "Mon, 25 Apr 2022 07:04:32 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31151393\">Comments</a>",
+  "image": "https://eclecticlightdotcom.files.wordpress.com/2022/04/coremanultra.png?w=1200",
+  "description": "From the 8 cores of the original M1 chip to the M1 Ultra’s 20, this is how macOS manages threads from apps, services and other code.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
