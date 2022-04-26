@@ -1,0 +1,10 @@
+{
+  "title": "Avoiding the Pitfalls of Nested Components in a Design System",
+  "url": "https://css-tricks.com/nested-components-in-a-design-system/",
+  "date": "Tue, 26 Apr 2022 14:30:20 +0000",
+  "content": "<p>When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.</p><p>Take the following “call to action” (<code>&#60;CTA /&#62;</code>&#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/nested-components-in-a-design-system/\">Avoiding the Pitfalls of Nested Components in a Design System</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359",
+  "description": "Let's make components that are both reusable and responsive when there are nested components within components.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
