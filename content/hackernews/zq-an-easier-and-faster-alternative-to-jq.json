@@ -3,8 +3,8 @@
   "url": "https://www.brimdata.io/blog/introducing-zq/",
   "date": "Tue, 26 Apr 2022 13:02:59 +0000",
   "content": "<a href=\"https://news.ycombinator.com/item?id=31166956\">Comments</a>",
-  "image": null,
-  "description": null,
+  "image": "/img/introducing-zq-twitter.jpg",
+  "description": "In-depth differences between the computational models of zq and jq.",
   "publisher": "Hackernews",
   "publisherUrl": "http://news.ycombinator.com/"
 }
