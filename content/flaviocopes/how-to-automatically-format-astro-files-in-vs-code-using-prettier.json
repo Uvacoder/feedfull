@@ -1,0 +1,10 @@
+{
+  "title": "How to automatically format Astro files in VS Code using Prettier",
+  "url": "https://flaviocopes.com/how-to-format-astro-vscode/",
+  "date": "Tue, 26 Apr 2022 07:00:00 +0200",
+  "content": "        <p>One downside of using Astro is that Prettier does not understand its syntax.</p><p>So auto-formatting on Save/Paste does not work in VS Code.</p><p>How can you automatically format Astro files in VS Code using Prettier?</p><p>To make it work we need to do some configuration.</p><p>First install the default formatter for Web Development, which is Prettier.</p><p>Prettier does not have a specific formatter for Astro.</p><p>So inside your project folder, install this plugin <a href=\"https://github.com/withastro/prettier-plugin-astro\">https://github.com/withastro/prettier-plugin-astro</a> by running</p><div class=\"highlight\"><pre tabindex=\"0\" ><code class=\"language-sh\" data-lang=\"sh\">npm install -D prettier-plugin-astro</code></pre></div><p>Now make sure in the VS Code settings you have enabled <strong>Editor: Format On Save</strong> and <strong>Editor: Format On Paste</strong>.</p><p>Then when you save the file or paste code you should see it being formatted.</p><p>If it doesn&rsquo;t work, make sure in VS Code you opened the specific project folder.</p><p>Not the project&rsquo;s parent folder.</p><p>This might make the Astro formatter not work.</p>      ",
+  "image": "https://flaviocopes.com/img/avatar.png",
+  "description": "Find out how to use Prettier  to format .astro files in VS Code",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}
