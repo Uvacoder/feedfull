@@ -1,0 +1,10 @@
+{
+  "title": "Running prettier 40x faster than prettier CLI using dprint",
+  "url": "https://david.deno.dev/posts/faster-prettier-with-dprint/",
+  "date": "Mon, 25 Apr 2022 21:15:53 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31160722\">Comments</a>",
+  "image": null,
+  "description": "Example of reducing format checking with Prettier from ~40s to under 1s on the second run.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
