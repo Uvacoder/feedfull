@@ -1,0 +1,10 @@
+{
+  "title": "Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items",
+  "url": "https://arxiv.org/abs/2204.11918",
+  "date": "Wed, 27 Apr 2022 02:10:59 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31175472\">Comments</a>",
+  "image": null,
+  "description": "Interactive 3D simulations have enabled breakthroughs in robotics and\ncomputer vision, but simulating the broad diversity of environments needed for\ndeep learning requires large corpora of photo-realistic 3D object models. To\naddress this need, we present Google Scanned Objects, an open-source collection\nof over one thousand 3D-scanned household items released under a Creative\nCommons license; these models are preprocessed for use in Ignition Gazebo and\nthe Bullet simulation platforms, but are easily adaptable to other simulators.\nWe describe our object scanning and curation pipeline, then provide statistics\nabout the contents of the dataset and its usage. We hope that the diversity,\nquality, and flexibility of Google Scanned Objects will lead to advances in\ninteractive simulation, synthetic perception, and robotic learning.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
