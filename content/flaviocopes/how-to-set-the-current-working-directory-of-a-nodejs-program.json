@@ -1,0 +1,10 @@
+{
+  "title": "How to set the current working directory of a Node.js program",
+  "url": "https://flaviocopes.com/node-set-current-working-directory/",
+  "date": "Wed, 27 Apr 2022 07:00:00 +0200",
+  "content": "        <p>I had this problem with a <a href=\"https://flaviocopes.com/nodejs/\">Node.js</a> script I wrote.</p><p>I had set relative paths to reference some files in the local filesystem, like this:</p><p><code>../../dev/file.md</code></p><p>and if I ran the program from the folder it was, no problem.</p><p>But if I ran the file from another folder, from example the parent folder, the relative links would break.</p><p>To fix this, at the beginning of the program, I set</p><div class=\"highlight\"><pre tabindex=\"0\" ><code class=\"language-js\" data-lang=\"js\"><span >const</span> <span >process</span> <span >=</span> <span >require</span>(<span >&#39;process&#39;</span>)<span >process</span>.<span >chdir</span>(<span >__</span><span >dirname</span>)</code></pre></div><p>This set the current working directory of the process to <code>__dirname</code> which points to the current file&rsquo;s parent folder path.</p>      ",
+  "image": "https://flaviocopes.com/node-set-current-working-directory/banner.png",
+  "description": "Find out how to serve an `index.html` HTML page using Node.js with no dependencies",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}
