@@ -1,0 +1,10 @@
+{
+  "title": "Cool Hover Effects That Use Background Properties",
+  "url": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
+  "date": "Wed, 27 Apr 2022 14:20:07 +0000",
+  "content": "<p>A while ago, Geoff wrote an <a href=\"https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/\">article about a cool hover effect</a>. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/cool-hover-effects-using-background-properties/\">Cool Hover Effects That Use Background Properties</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a>.</p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383",
+  "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}
