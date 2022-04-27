@@ -1,0 +1,10 @@
+{
+  "title": "Running Containers on AWS Lambda",
+  "url": "https://earthly.dev/blog/aws-lambda-docker/",
+  "date": "Wed, 27 Apr 2022 16:28:08 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31182099\">Comments</a>",
+  "image": "/blog/generated/assets/images/aws-lambda-docker/header-800-73fc6b1ba.jpg",
+  "description": "Most of the code I’ve had running on AWS’s cloud has been in docker containers, running in Kubernetes clusters. And from my perspective, AWS was in...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
