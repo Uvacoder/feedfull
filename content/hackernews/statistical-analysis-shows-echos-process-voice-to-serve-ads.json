@@ -1,0 +1,10 @@
+{
+  "title": "Statistical Analysis shows Echos process voice to serve ads",
+  "url": "https://arxiv.org/abs/2204.10920",
+  "date": "Wed, 27 Apr 2022 07:56:15 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31177454\">Comments</a>",
+  "image": null,
+  "description": "Smart speakers collect voice input that can be used to infer sensitive\ninformation about users. Given a number of egregious privacy breaches, there is\na clear unmet need for greater transparency and control over data collection,\nsharing, and use by smart speaker platforms as well as third party skills\nsupported on them. To bridge the gap, we build an auditing framework that\nleverages online advertising to measure data collection, its usage, and its\nsharing by the smart speaker platforms. We evaluate our framework on the Amazon\nsmart speaker ecosystem. Our results show that Amazon and third parties\n(including advertising and tracking services) collect smart speaker interaction\ndata; where Amazon shares it with as many as 41 advertising partners. We find\nthat Amazon processes voice data to infer user interests and uses it to serve\ntargeted ads on-platform (Echo devices) as well as off-platform (web). Smart\nspeaker interaction leads to as much as 30X higher ad bids from advertisers.\nFinally, we find that Amazon's and skills' operational practices are often\ninconsistent with their privacy policies",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
