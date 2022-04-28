@@ -1,0 +1,10 @@
+{
+  "title": "Append Reddit – Chrome extension that redoes searches with Reddit appended",
+  "url": "https://chrome.google.com/webstore/detail/append-reddit/hfgllcmkdcpljffbcejhkengkfkiciob",
+  "date": "Thu, 28 Apr 2022 10:42:20 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31190936\">Comments</a>",
+  "image": "https://lh3.googleusercontent.com/rOG56VruT3C2D12LEygBvaoCilbT760GSMtPhd-K5NwT-AEFX-YvFSP68Bf_XADe-Oy-m3fXhOhv95rNsFM8PmNimA=w128-h128-e365-rj-sc0x00ffffff",
+  "description": "Redoes a Google search with site:reddit.com appended when pressing shift+R",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
