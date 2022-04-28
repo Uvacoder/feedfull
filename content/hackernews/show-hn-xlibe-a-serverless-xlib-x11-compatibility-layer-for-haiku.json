@@ -1,0 +1,10 @@
+{
+  "title": "Show HN: Xlibe: a serverless Xlib (X11) compatibility layer for Haiku",
+  "url": "https://github.com/waddlesplash/xlibe",
+  "date": "Tue, 26 Apr 2022 14:00:33 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31167562\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/3ba89865eb7ea8a65c01ad7a71a183ab2d23645cde8ee0e7bfa8fb05a45d03f7/waddlesplash/xlibe",
+  "description": "An Xlib compatibility layer implemented on top of the Haiku API, in order to run X11 applications on Haiku without an X server. - GitHub - waddlesplash/xlibe: An Xlib compatibility layer implemente...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
