@@ -1,0 +1,10 @@
+{
+  "title": "Achieving 5M persistent connections with Project Loom virtual threads",
+  "url": "https://github.com/ebarlas/project-loom-c5m",
+  "date": "Sat, 30 Apr 2022 08:07:42 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31214253\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/7e64fe2bfc6fa4cc0ccd482dc1c6dba417d5dfdf2012014231034f747fd47120/ebarlas/project-loom-c5m",
+  "description": "Experiment to achieve 5 million persistent connections with Project Loom virtual threads - GitHub - ebarlas/project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loo...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

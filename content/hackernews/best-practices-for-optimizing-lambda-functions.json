@@ -1,0 +1,10 @@
+{
+  "title": "Best practices for optimizing Lambda functions",
+  "url": "https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions",
+  "date": "Sat, 30 Apr 2022 11:56:30 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31215328\">Comments</a>",
+  "image": "https://res.cloudinary.com/tlakomy/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:ffc,g_south_west,x_450,y_300,l_text:Lato_64_line_spacing_-10:8%20best%20practices%20for%20optimizing%20Lambda%20functions/w_760,c_fit,co_rgb:ffc,g_north_west,x_450,y_445,l_text:Lato_48:cloudash.dev/cloudash_blog_post",
+  "description": "Learn how to get the most out of your serverless functions",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
