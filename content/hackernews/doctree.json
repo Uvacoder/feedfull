@@ -1,0 +1,10 @@
+{
+  "title": "Doctree",
+  "url": "https://github.com/sourcegraph/doctree",
+  "date": "Fri, 29 Apr 2022 10:11:36 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31203384\">Comments</a>",
+  "image": "https://opengraph.githubassets.com/702b8e1c317e9dd69e4895c1450dd77e0ab096fd115b48ad08c38f72eb3ee686/sourcegraph/doctree",
+  "description": "First-class library docs tool: supports every language, symbol search, finds usage examples automagically. Based on tree-sitter, runnable standalone or via http://doctree.org - GitHub - sourcegraph...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
