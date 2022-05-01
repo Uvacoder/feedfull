@@ -1,0 +1,10 @@
+{
+  "title": "New C++ features in GCC 12",
+  "url": "https://developers.redhat.com/articles/2022/04/25/new-c-features-gcc-12",
+  "date": "Sun, 1 May 2022 13:05:17 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31224707\">Comments</a>",
+  "image": "https://developers.redhat.com/sites/default/files/styles/share/public/blog/2021/04/gcc_1x.png?itok=6l1b8Lo9",
+  "description": "Version 12 of GCC implements much of the recent C++ standard, allows a number of previously prohibited constructs, and fixes some problematic behaviors.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

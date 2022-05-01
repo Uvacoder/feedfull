@@ -1,0 +1,10 @@
+{
+  "title": "Removing characters from strings faster with AVX-512",
+  "url": "https://lemire.me/blog/2022/04/28/removing-characters-from-strings-faster-with-avx-512/",
+  "date": "Sun, 1 May 2022 13:12:44 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31224756\">Comments</a>",
+  "image": "https://lemire.me/img/portrait2018facebook.jpg",
+  "description": "In software, it is a common problem to want to remove specific characters from a string. To make the problem precise, let us consider the removal of all ASCII control characters and spaces. In practice, it means the removal of all byte values smaller or equal than 32. I covered a related problem before, the … Continue reading Removing characters from strings faster with AVX-512",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
