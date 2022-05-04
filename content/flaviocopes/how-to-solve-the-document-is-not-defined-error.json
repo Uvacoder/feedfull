@@ -1,0 +1,10 @@
+{
+  "title": "How to solve the document is not defined error",
+  "url": "https://flaviocopes.com/error-document-not-defined/",
+  "date": "Wed, 04 May 2022 07:00:00 +0200",
+  "content": "              ",
+  "image": "https://flaviocopes.com/error-document-not-defined/banner.png",
+  "description": "Here’s how to fix the “referenceerror: document is not defined” error that you might have in Node.js or with a tool like Next.js.\ndocument is an object that’s made available by the browser, and it’s not available in a server-side JavaScript environment.\nI describe the document object is details in my extensive DOM Document Object Model guide.\nWith Node.js in particular there’s no way to workaround the problem - you must find the particular place where document is used, and revisit the code to figure out why you are accessing the document object.",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}
