@@ -1,0 +1,10 @@
+{
+  "title": "GitHub is making 2FA mandatory for devs — here’s how to enable it",
+  "url": "https://thenextweb.com/news/how-to-enable-2fa-github-account",
+  "date": "Thu, 05 May 2022 10:10:30 +0000",
+  "content": "<img src=\"https://img-cdn.tnwcdn.com/image?fit=796%2C417&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Froman-synkevych-UT8LMo-wlyk-unsplash-e1651744032331.jpg&signature=caf767703672a61525c2bca933c5978b\" width=\"796\" height=\"417\"><br />GitHub is increasing the security of repositories by requiring all developers to enable two-factor authentication by the end of 2023. The company’s directive is simple: if you contribute to code, you must enable 2FA. GitHub is probably pushing this initiative because the number of people using adequate security measures is so low. The company said only 16.5% of active GitHub users and only 6.44% of NPM registry users use 2FA. Last November, GitHub forced NPM package maintainers to enroll for 2FA to avoid account takeovers. The company is expanding this effort to secure top packages on the service: “In February&#8230;<br /><br /><a href=\"https://thenextweb.com/news/how-to-enable-2fa-github-account?utm_source=social&#038;utm_medium=feed&#038;utm_campaign=profeed\">This story continues</a> at The Next Web<br /><br />Or just read more coverage about: <a href=\"https://thenextweb.com/company/github\">GitHub</a>",
+  "image": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Froman-synkevych-UT8LMo-wlyk-unsplash-e1651744032331.jpg&signature=43b93b7a216c04e9c8e4870d7f6d2d5d",
+  "description": "GitHub is making mandatory 2FA for all code contributors by 2023-end. Here's how you can enable it now.",
+  "publisher": "The Next Web",
+  "publisherUrl": "https://thenextweb.com/"
+}
