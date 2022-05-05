@@ -1,0 +1,10 @@
+{
+  "title": "Meta’s free GPT-3 replica exposes the business benefits of AI transparency",
+  "url": "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free",
+  "date": "Wed, 04 May 2022 20:16:35 +0000",
+  "content": "<img src=\"https://img-cdn.tnwcdn.com/image?fit=796%2C417&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design.jpg&signature=c40a26b2b07438817bdbb464a0a5017c\" width=\"796\" height=\"417\"><br />The notoriously secretive Meta has set a milestone for transparency. The company this week offered the entire research community access to a fully-trained large language model (LLM). Named the Open Pretrained Transformer (OPT), the system mirrors the performance and size of OpenAI’s vaunted GPT-3 model. This mimicry is deliberate. While GPT-3 has a stunning ability to produce human-like text, it also has a powerful capacity for biases, bigotry, and disinformation. OPT’s creators said their system can reduce these risks: Our aim in developing this suite of OPT models is to enable reproducible and responsible research at scale, and to bring&#8230;<br /><br /><a href=\"https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free?utm_source=social&#038;utm_medium=feed&#038;utm_campaign=profeed\">This story continues</a> at The Next Web",
+  "image": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design.jpg&signature=fa11babcddcb7cef41f611dd15c34e2c",
+  "description": "Meta is frequently accused of secrecy, but the release of the Open Pretrained Transformer (OPT) system has set a landmark for AI transparency.",
+  "publisher": "The Next Web",
+  "publisherUrl": "https://thenextweb.com/"
+}
