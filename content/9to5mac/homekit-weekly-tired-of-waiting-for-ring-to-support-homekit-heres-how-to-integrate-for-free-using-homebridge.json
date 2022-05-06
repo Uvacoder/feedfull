@@ -1,0 +1,10 @@
+{
+  "title": "HomeKit Weekly: Tired of waiting for Ring to support HomeKit? Here’s how to integrate for free using Homebridge",
+  "url": "https://9to5mac.com/2022/05/06/homekit-weekly-tired-of-waiting-for-ring-to-support-homekit-heres-how-to-integrate-for-free-using-homebridge/",
+  "date": "Fri, 06 May 2022 16:00:00 +0000",
+  "content": "<div class=\"feat-image\"><img src=\"https://9to5mac.com/wp-content/uploads/sites/6/2022/04/Ring-1.png?w=1600\" /></div><p> promised HomeKit support many years ago but hasn’t come through with that promise. At this point, it looks less and less likely that it’ll ever happen. If you’re firmly in the Ring ecosystem, but want to enjoy some of the benefits of HomeKit. All you’ll need to add is a computer running <a href=\"https://homebridge.io\">Homebridge</a>, and you can integrate Ring into HomeKit for <em>free</em>. My favorite way to use Homebridge is . Let’s dive into how to add Ring devices to HomeKit.</p><p> <a href=\"https://9to5mac.com/2022/05/06/homekit-weekly-tired-of-waiting-for-ring-to-support-homekit-heres-how-to-integrate-for-free-using-homebridge/#more-798254\" class=\"more-link\">more…</a></p><p>The post <a rel=\"nofollow\" href=\"https://9to5mac.com/2022/05/06/homekit-weekly-tired-of-waiting-for-ring-to-support-homekit-heres-how-to-integrate-for-free-using-homebridge/\">HomeKit Weekly: Tired of waiting for Ring to support HomeKit? Here&#8217;s how to integrate for free using Homebridge</a> appeared first on <a rel=\"nofollow\" href=\"https://9to5mac.com\">9to5Mac</a>.</p>",
+  "image": null,
+  "description": "If you're using Ring products but desire for HomeKit integration, Homebridge and HOOBS is an easy way to everything working together.",
+  "publisher": "9to5Mac",
+  "publisherUrl": "http://9to5mac.com/"
+}
