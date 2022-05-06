@@ -1,0 +1,10 @@
+{
+  "title": "Bugs that the Rust compiler catches for you",
+  "url": "https://kerkour.com/bugs-rust-compiler-helps-prevent",
+  "date": "Thu, 5 May 2022 21:02:36 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31278379\">Comments</a>",
+  "image": "https://kerkour.com/imgs/og_image.jpg",
+  "description": "Over the decades, Humans have proved to be pretty bad at producing bug-free software. Trying to apply our approximative, fuzzy thoughts to perfectly logical computers seems doomed. While the practice of code reviews is increasing, especially with the culture of Open Source becoming dominant, the situation is still far from",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
