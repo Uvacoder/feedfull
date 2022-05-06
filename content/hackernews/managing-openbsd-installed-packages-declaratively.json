@@ -1,0 +1,10 @@
+{
+  "title": "Managing OpenBSD installed packages declaratively",
+  "url": "https://dataswamp.org/~solene/2022-05-05-openbsd-declarative-packages-with-pkgset.html",
+  "date": "Thu, 5 May 2022 14:53:41 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31274135\">Comments</a>",
+  "image": "static/img/clyagLogo.png",
+  "description": "I wrote a simple utility to manage my packages using a configuration file, installed missing packages and removing the extra ones",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
