@@ -1,0 +1,10 @@
+{
+  "title": "Unauthorized gem takeover for some gems",
+  "url": "https://github.com/rubygems/rubygems.org/security/advisories/GHSA-hccv-rwq6-vh79",
+  "date": "Sat, 7 May 2022 20:48:35 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31298435\">Comments</a>",
+  "image": "https://github.githubassets.com/images/modules/open_graph/github-logo.png",
+  "description": "GitHub is where people build software. More than 83 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
