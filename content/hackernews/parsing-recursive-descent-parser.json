@@ -1,0 +1,10 @@
+{
+  "title": "Parsing / Recursive Descent Parser",
+  "url": "https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser",
+  "date": "Mon, 9 May 2022 06:27:10 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31311218\">Comments</a>",
+  "image": "https://huy.rocks/api/image?t=MDUuMDguMjAyMiAtIFBhcnNpbmcvUmVjdXJzaXZlIERlc2NlbnQgUGFyc2Vy",
+  "description": "A parser is a program that usually takes a stream of lexical tokens and transforms them into another data structure, usually in the form of a parse tree that...",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

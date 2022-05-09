@@ -1,0 +1,10 @@
+{
+  "title": "How to fix the \"Parse failure: Unterminated string constant\" error",
+  "url": "https://flaviocopes.com/fix-parse-failure-unterminated-string-constant/",
+  "date": "Mon, 09 May 2022 07:00:00 +0200",
+  "content": "              ",
+  "image": "https://flaviocopes.com/fix-parse-failure-unterminated-string-constant/banner.png",
+  "description": "I ran into this error with a student of mine, running Astro on Windows (could not replicate on macOS), after running npm run dev.\nAfter much 🤔 we solved by renaming the parent folder, which apparently had a strange character, perhaps non-ASCII.\nIf you run into this problem, try renaming the folder you are running (or perhaps a parent folder in the path) to just ASCII text, like “test”",
+  "publisher": "Flaviocopes",
+  "publisherUrl": "https://flaviocopes.com/"
+}
