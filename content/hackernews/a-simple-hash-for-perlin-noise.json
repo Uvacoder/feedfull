@@ -1,0 +1,10 @@
+{
+  "title": "A Simple Hash for Perlin Noise",
+  "url": "https://marcospereira.me/a-simple-hash-for-perlin-noise/",
+  "date": "Tue, 10 May 2022 21:46:55 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31333146\">Comments</a>",
+  "image": null,
+  "description": "I needed a hashing algorithm that is simple to implement and quick to compute, to be used as a basis\nfor generating perlin noise in Unity.\n\n",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
