@@ -1,0 +1,10 @@
+{
+  "title": "Improved Process Isolation in Firefox 100",
+  "url": "https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/",
+  "date": "Thu, 12 May 2022 15:48:05 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31355857\">Comments</a>",
+  "image": "https://hacks.mozilla.org/files/2021/04/firefox-generic-hero-2.png",
+  "description": "Firefox uses a multi-process model for additional security and stability while browsing. Web Content is rendered in separate processes.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
