@@ -1,0 +1,10 @@
+{
+  "title": "Time-Series Compression Algorithms",
+  "url": "https://www.timescale.com/blog/time-series-compression-algorithms-explained/",
+  "date": "Sat, 14 May 2022 16:08:16 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31379344\">Comments</a>",
+  "image": "https://www.timescale.com/blog/content/images/2020/04/miniature-town-1465321573Cc4.jpg",
+  "description": "Delta-delta encoding, Simple-8b, XOR-based compression, and more - these algorithms aren't magic, but combined they can save over 90% of storage costs and speed up queries. Here’s how they work.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
