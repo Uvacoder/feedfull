@@ -1,0 +1,10 @@
+{
+  "title": "JSON and Virtual Columns in SQLite",
+  "url": "https://antonz.org/json-virtual-columns/",
+  "date": "Mon, 16 May 2022 13:08:11 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31396578\">Comments</a>",
+  "image": "https://antonz.org/json-virtual-columns/cover.png",
+  "description": "Faster JSON handling in a relational database.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

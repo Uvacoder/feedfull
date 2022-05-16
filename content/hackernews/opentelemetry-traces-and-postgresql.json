@@ -1,0 +1,10 @@
+{
+  "title": "OpenTelemetry Traces and PostgreSQL",
+  "url": "https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/",
+  "date": "Mon, 16 May 2022 13:49:57 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31397145\">Comments</a>",
+  "image": "https://www.timescale.com/blog/content/images/2022/05/KubeCon_ABL_Week_Blog_Hero_Tracing_GA-1.png",
+  "description": "Learn how observability powered by SQL can help you unveil performance issues in your distributed systems, courtesy of the now generally available OpenTelemetry tracing support in Promscale.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
