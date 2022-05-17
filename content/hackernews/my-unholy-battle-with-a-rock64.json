@@ -1,0 +1,10 @@
+{
+  "title": "My Unholy Battle with a Rock64",
+  "url": "https://artemis.sh/2022/05/16/everfrees-armferno.html",
+  "date": "Tue, 17 May 2022 12:08:17 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31409273\">Comments</a>",
+  "image": null,
+  "description": "I’ve got this rock64, which is an aarch64 board comparable to a Raspberry Pi 3 B+ with 4 gigs of ram. For years I’ve wanted to put a distribution on here that doesn’t have a premade image available, mainly because out of all the options on that page I don’t actually like any of them. Well, except NetBSD, but NetBSD doesn’t have GPU drivers for it. Problem is, everything I do want to use provides rootfs tarballs and tells you to figure it out. To do that I’ve got to get a Linux kernel, track down the device trees so it knows what hardware it has, and then wrangle u-boot into actually booting the whole thing. I figured that would be the hard part; little did I know the depths that Single Board Computer Hell would reach.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
