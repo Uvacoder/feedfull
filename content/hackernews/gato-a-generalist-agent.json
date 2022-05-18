@@ -1,0 +1,10 @@
+{
+  "title": "Gato – A Generalist Agent",
+  "url": "https://arxiv.org/abs/2205.06175",
+  "date": "Tue, 17 May 2022 19:45:33 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31415478\">Comments</a>",
+  "image": null,
+  "description": "Inspired by progress in large-scale language modeling, we apply a similar\napproach towards building a single generalist agent beyond the realm of text\noutputs. The agent, which we refer to as Gato, works as a multi-modal,\nmulti-task, multi-embodiment generalist policy. The same network with the same\nweights can play Atari, caption images, chat, stack blocks with a real robot\narm and much more, deciding based on its context whether to output text, joint\ntorques, button presses, or other tokens. In this report we describe the model\nand the data, and document the current capabilities of Gato.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
