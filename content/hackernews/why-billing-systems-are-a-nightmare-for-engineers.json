@@ -1,0 +1,10 @@
+{
+  "title": "Why billing systems are a nightmare for engineers",
+  "url": "https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers",
+  "date": "Wed, 18 May 2022 16:06:44 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31424450\">Comments</a>",
+  "image": "https://uploads-ssl.webflow.com/6244531a40ad7ef5475ad9b3/626c089738310f1c7e06e4ef_billing-nightmare-for-engineers.png",
+  "description": "With billing, the devil is in the details. In this article, Raffi provides a high-level view of the technical challenges we faced while implementing a hybrid pricing (based on both 'subscription' and 'usage') at 5x unicorn Qonto.com, and what we learned the hard way in this journey.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
