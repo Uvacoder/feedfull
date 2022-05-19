@@ -1,0 +1,10 @@
+{
+  "title": "Google open sourced PSP (hardware cryptographic offload)",
+  "url": "https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source",
+  "date": "Thu, 19 May 2022 16:51:23 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31437033\">Comments</a>",
+  "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/PSP_Security_Protocol.max-2000x2000.jpg",
+  "description": "We’re making the PSP Security Protocol for offloading encryption to network interface cards open source today. Here’s why.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
