@@ -1,0 +1,10 @@
+{
+  "title": "Gov.uk drops jQuery from their front end",
+  "url": "https://web.dev/gov-uk-drops-jquery/",
+  "date": "Thu, 19 May 2022 13:34:19 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31434434\">Comments</a>",
+  "image": "https://web-dev.imgix.net/image/jL3OLOhcWUQDnR4XjewLBx4e3PC3/LA52Yr53TgZCizpkOLJo.png?auto=format&fit=max&w=1200&fm=auto",
+  "description": "GOV.UK dropped their jQuery dependency from their front end. You'll never guess what happened. (Yes, you will.) ",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
