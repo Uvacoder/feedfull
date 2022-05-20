@@ -1,0 +1,10 @@
+{
+  "title": "Memorizing Transformers",
+  "url": "https://arxiv.org/abs/2203.08913",
+  "date": "Fri, 20 May 2022 14:58:29 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31448360\">Comments</a>",
+  "image": null,
+  "description": "Language models typically need to be trained or finetuned in order to acquire\nnew knowledge, which involves updating their weights. We instead envision\nlanguage models that can simply read and memorize new data at inference time,\nthus acquiring new knowledge immediately. In this work, we extend language\nmodels with the ability to memorize the internal representations of past\ninputs. We demonstrate that an approximate kNN lookup into a non-differentiable\nmemory of recent (key, value) pairs improves language modeling across various\nbenchmarks and tasks, including generic webtext (C4), math papers (arXiv),\nbooks (PG-19), code (Github), as well as formal theorems (Isabelle). We show\nthat the performance steadily improves when we increase the size of memory up\nto 262K tokens. On benchmarks including code and mathematics, we find that the\nmodel is capable of making use of newly defined functions and theorems during\ntest time.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
