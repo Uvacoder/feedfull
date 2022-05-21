@@ -1,0 +1,10 @@
+{
+  "title": "Firefox appears to be flagged as suspicious by Cloudflare",
+  "url": "https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html",
+  "date": "Sat, 21 May 2022 16:26:29 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=31459258\">Comments</a>",
+  "image": null,
+  "description": "Update: Cloudflare’s response indicates that this is a customer-specific rule and not a global policy. They did not mention what kind of rule is triggering this behavior though.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
