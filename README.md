@@ -1,5 +1,5 @@
 # feedful
-
+--
 Feedful is a very opinionated, fast, jamstack rss reader for tech news. A [github action] scrapes rss urls from [publications.json](https://github.com/fayazara/feedful/blob/main/constants/publications.json) file and generates each article as a json file, which is fed to nuxt-content plugin to generate the pages in feedful, once scraped, the files are commited using the same action, which triggers a build in vercel.
 
 TODO.
